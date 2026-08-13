@@ -1,0 +1,880 @@
+{
+  "items": [
+    {
+      "description": "Complete sections to cover functionality such as a CMS, blog, etc.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Z3d0X/filament-fabricator",
+          "description": "Block-Based Page Builder Skeleton for your Filament Apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-30T20:19:39Z",
+            "owner": "Z3d0X",
+            "repo": "filament-fabricator",
+            "stars": 385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "andrewdwallo/filament-companies",
+          "description": "A complete authentication system kit based on companies built for Filament with Fortify, Socialite and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-05T00:04:44Z",
+            "owner": "andrewdwallo",
+            "repo": "filament-companies",
+            "stars": 353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stephenjude/filament-blog",
+          "description": "A faceless blog content manager with configurable richtext and markdown support for filament admin panel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-20T15:32:08Z",
+            "owner": "stephenjude",
+            "repo": "filament-blog",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awcodes/overlook",
+          "description": "Adds an app overview widget to your admin panel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-21T19:22:18Z",
+            "owner": "awcodes",
+            "repo": "overlook",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ryangjchandler/filament-navigation",
+          "description": "Build structured navigation menus in Filament.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2025-08-25T19:29:10Z",
+            "owner": "ryangjchandler",
+            "repo": "filament-navigation",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "buildix/timex",
+          "description": "Calendar plugin for Filament.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-07-02T16:04:36Z",
+            "owner": "buildix",
+            "repo": "timex",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stephenjude/filament-debugger",
+          "description": "Easily add Laravel Telescope and Horizon to Filament.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-25T10:59:15Z",
+            "owner": "stephenjude",
+            "repo": "filament-debugger",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "statikbe/laravel-filament-chained-translation-manager",
+          "description": "A translation manager tool using Laravel Chained Translator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-30T16:44:33Z",
+            "owner": "statikbe",
+            "repo": "laravel-filament-chained-translation-manager",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "invaders-xx/filament-kanban-board",
+          "description": "Kanban-Board for Filament.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-07-08T20:11:21Z",
+            "owner": "invaders-xx",
+            "repo": "filament-kanban-board",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MarJose123/filament-webhook-server",
+          "description": "Send webhooks from Filament apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-22T14:32:31Z",
+            "owner": "MarJose123",
+            "repo": "filament-webhook-server",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reworck/filament-settings",
+          "description": "Easy setting management for filament.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-04-01T11:03:48Z",
+            "owner": "reworck",
+            "repo": "filament-settings",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ryangjchandler/filament-feature-flags",
+          "description": "Control your Laravel feature flags through a clean Filament interface.",
+          "children": []
+        }
+      ],
+      "title": "Complete Sections"
+    },
+    {
+      "description": "Integrations with popular Laravel packages or core features:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bezhanSalleh/filament-shield",
+          "description": "The easiest and most intuitive way to add access management to your Filament Admin Resources, Pages & Widgets through .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-25T03:55:32Z",
+            "owner": "bezhanSalleh",
+            "repo": "filament-shield",
+            "stars": 2824
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Althinect/filament-spatie-roles-permissions",
+          "description": "Integration with .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-24T22:07:43Z",
+            "owner": "Althinect",
+            "repo": "filament-spatie-roles-permissions",
+            "stars": 351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shuvroroy/filament-spatie-laravel-backup",
+          "description": "Integrate with .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-30T16:56:28Z",
+            "owner": "shuvroroy",
+            "repo": "filament-spatie-laravel-backup",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shuvroroy/filament-spatie-laravel-health",
+          "description": "Monitor the health of a Laravel application using .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-30T16:45:24Z",
+            "owner": "shuvroroy",
+            "repo": "filament-spatie-laravel-health",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ralphjsmit/laravel-filament-seo",
+          "description": "A package to combine the power of Laravel SEO and Filament Admin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-07T22:20:59Z",
+            "owner": "ralphjsmit",
+            "repo": "laravel-filament-seo",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ramnzys/filament-email-log",
+          "description": "A Filament resource to view all Laravel sent emails.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-03-15T11:21:05Z",
+            "owner": "ramnzys",
+            "repo": "filament-email-log",
+            "stars": 52
+          }
+        }
+      ],
+      "title": "Integrations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pxlrbt/filament-excel",
+          "description": "Excel Export for Filament Admin Resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-20T12:36:37Z",
+            "owner": "pxlrbt",
+            "repo": "filament-excel",
+            "stars": 457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alperenersoy/filament-export",
+          "description": "Customizable export and print functionality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-09-08T20:16:13Z",
+            "owner": "alperenersoy",
+            "repo": "filament-export",
+            "stars": 273
+          }
+        }
+      ],
+      "title": "Data Exports"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Z3d0X/filament-logger",
+          "description": "Extensible activity logger for filament that works out-of-the-box. Uses spatie/laravel-activitylog under the hood.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2026-03-16T12:22:13Z",
+            "owner": "Z3d0X",
+            "repo": "filament-logger",
+            "stars": 389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "saade/filament-laravel-log",
+          "description": "Access laravel.log file through Filament admin panel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-13T18:41:19Z",
+            "owner": "saade",
+            "repo": "filament-laravel-log",
+            "stars": 120
+          }
+        }
+      ],
+      "title": "Logging"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "saade/filament-fullcalendar",
+          "description": "A Calendar widget for Filamant.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-30T17:22:48Z",
+            "owner": "saade",
+            "repo": "filament-fullcalendar",
+            "stars": 415
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bezhanSalleh/filament-language-switch",
+          "description": "Zero config Language Switch (Changer/Localizer) plugin for Filamentphp Admin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-27T23:38:44Z",
+            "owner": "bezhanSalleh",
+            "repo": "filament-language-switch",
+            "stars": 360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cheesegrits/filament-google-maps",
+          "description": "A collection of Fields and Widgets to work with Google Maps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-13T22:13:22Z",
+            "owner": "cheesegrits",
+            "repo": "filament-google-maps",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pxlrbt/filament-spotlight",
+          "description": "Quickly navigate your Filament pages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-14T21:20:47Z",
+            "owner": "pxlrbt",
+            "repo": "filament-spotlight",
+            "stars": 278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aymanalhattami/filament-page-with-sidebar",
+          "description": "A sidebar for Filament Pages supporting RTL and LTR.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-22T02:32:57Z",
+            "owner": "aymanalhattami",
+            "repo": "filament-page-with-sidebar",
+            "stars": 272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awcodes/filament-quick-create",
+          "description": "Plugin for Filament Admin that adds a dropdown menu to the header to quickly create new items.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-21T19:22:25Z",
+            "owner": "awcodes",
+            "repo": "filament-quick-create",
+            "stars": 248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pxlrbt/filament-environment-indicator",
+          "description": "Never confuse your tabs with different Filament environments again.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T16:39:38Z",
+            "owner": "pxlrbt",
+            "repo": "filament-environment-indicator",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awcodes/filament-badgeable-column",
+          "description": "Allows to append badges to Filament columns.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-21T19:51:28Z",
+            "owner": "awcodes",
+            "repo": "filament-badgeable-column",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webbingbrasil/filament-copyactions",
+          "description": "A easy-to-use copy actions for Admin Pages, Tables and Form Fields.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-31T15:30:35Z",
+            "owner": "webbingbrasil",
+            "repo": "filament-copyactions",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awcodes/filament-sticky-header",
+          "description": "A plugin to make headers sticky when scrolling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-21T19:09:33Z",
+            "owner": "awcodes",
+            "repo": "filament-sticky-header",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MarJose123/filament-lockscreen",
+          "description": "A filament plugin that will allow to lock your app screen and be able to continue working after login.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-11T10:47:40Z",
+            "owner": "MarJose123",
+            "repo": "filament-lockscreen",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "konnco/filament-safely-delete",
+          "description": "A delete-safety with name input to confirm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-10-09T23:10:51Z",
+            "owner": "konnco",
+            "repo": "filament-safely-delete",
+            "stars": 34
+          }
+        }
+      ],
+      "title": "UI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mohamedsabil83/filament-forms-tinyeditor",
+          "description": "A TinyMce Editor component for filament.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2025-08-15T19:41:10Z",
+            "owner": "mohamedsabil83",
+            "repo": "filament-forms-tinyeditor",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LukasFreyCZ/filament-icon-picker",
+          "description": "An icon picker field for Filament.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-04T07:49:06Z",
+            "owner": "GuavaCZ",
+            "repo": "filament-icon-picker",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "camya/filament-title-with-slug",
+          "description": "An advanced \"Title With Slug\"-input field.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-04-01T18:37:33Z",
+            "owner": "camya",
+            "repo": "filament-title-with-slug",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "savannabits/filament-signature-pad",
+          "description": "A signature pad field.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-12T05:53:42Z",
+            "owner": "savannabits",
+            "repo": "filament-signature-pad",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lucasgiovanny/filament-multiselect-two-sides",
+          "description": "A multiselect field with two sides.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-08-21T12:49:24Z",
+            "owner": "lucasgiovanny",
+            "repo": "filament-multiselect-two-sides",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "humaidem/filament-map-picker",
+          "description": "Filament Map Field.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-11-20T19:41:19Z",
+            "owner": "humaidem",
+            "repo": "filament-map-picker",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TappNetwork/filament-timezone-field",
+          "description": "A Timezone field for FilamentPHP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-04T20:40:22Z",
+            "owner": "TappNetwork",
+            "repo": "filament-timezone-field",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "creagia/filament-code-field",
+          "description": "A CodeMirror powered code field for the Filamentphp admin panel and form builder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-31T09:54:43Z",
+            "owner": "creagia",
+            "repo": "filament-code-field",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yepsua/filament-rating-field",
+          "description": "Rating field for the Filament forms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-07-01T00:39:17Z",
+            "owner": "yepsua",
+            "repo": "filament-rating-field",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "saadj55/filament-copyable",
+          "description": "Copyable Text Column and Field for Filament PHP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Blade",
+            "last_commit": "2023-04-21T05:51:08Z",
+            "owner": "saadj55",
+            "repo": "filament-copyable",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yepsua/filament-range-field",
+          "description": "Provides the missing range field for the Filament forms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-03-02T14:17:13Z",
+            "owner": "yepsua",
+            "repo": "filament-range-field",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yemenpoint/filament-google-map-location-picker",
+          "description": "A Google Maps location picker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Blade",
+            "last_commit": "2022-11-05T18:49:52Z",
+            "owner": "yemenpoint",
+            "repo": "filament-google-map-location-picker",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "invaders-xx/filament-jsoneditor",
+          "description": "JSON Editor form input field.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-02-10T10:13:29Z",
+            "owner": "invaders-xx",
+            "repo": "filament-jsoneditor",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yepsua/filament-captcha-field",
+          "description": "Provides a captcha field for the Filament Forms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-07-03T16:42:36Z",
+            "owner": "yepsua",
+            "repo": "filament-captcha-field",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nettantra/filament-slider-input-field",
+          "description": "A Range Slider Field for Filament.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Blade",
+            "last_commit": "2024-08-07T11:55:51Z",
+            "owner": "nettantra",
+            "repo": "filament-slider-input-field",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "happytodev/filament-tailwind-color-picker",
+          "description": "Specific Tailwindcss color picker field for Filamentphp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-10-09T10:45:20Z",
+            "owner": "happytodev",
+            "repo": "filament-tailwind-color-picker",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "caendesilva/filament-simple-highlight-field-plugin",
+          "description": "Adds a simple read-only Highlight.js pseudo-field.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-05-03T19:18:33Z",
+            "owner": "emmadesilva",
+            "repo": "filament-simple-highlight-field-plugin",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jojostx/filament-tel-input",
+          "description": "A FilamentPHP form plugin for working with phone numbers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-10-09T02:37:09Z",
+            "owner": "jojostx",
+            "repo": "filament-tel-input",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Fields"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bezhanSalleh/filament-google-analytics",
+          "description": "Google Analytics integration with the Filament Admin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-27T23:42:24Z",
+            "owner": "bezhanSalleh",
+            "repo": "filament-google-analytics",
+            "stars": 215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "danilopolani/filament-plausible-widget",
+          "description": "Add a fancy Plausible statistics widget to your Filament admin dashboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-04-22T08:26:07Z",
+            "owner": "danilopolani",
+            "repo": "filament-plausible-widget",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Analytics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "stechstudio/filament-impersonate",
+          "description": "Impersonate another user out of Filament.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-06T12:40:00Z",
+            "owner": "stechstudio",
+            "repo": "filament-impersonate",
+            "stars": 395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DutchCodingCompany/filament-socialite",
+          "description": "Add OAuth login through Laravel Socialite to Filament.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-22T17:42:23Z",
+            "owner": "DutchCodingCompany",
+            "repo": "filament-socialite",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "artificertech/filament-multi-context",
+          "description": "A package for adding multiple contexts to the filament admin panel.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2023-07-03T06:58:03Z",
+            "owner": "artificertech",
+            "repo": "filament-multi-context",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xlite-dev/filament-impersonate",
+          "description": "Filament Impersonate is a plugin that allows you to authenticate as your users.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-31T10:51:45Z",
+            "owner": "xlitedev",
+            "repo": "filament-impersonate",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ryangjchandler/filament-profile",
+          "description": "A simple profile management page for Filament.",
+          "children": []
+        }
+      ],
+      "title": "MISC"
+    },
+    {
+      "description": "Contributions of any kind welcome, just follow the guidelines!",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "Thanks goes to these contributors!",
+      "items": [],
+      "title": "Contributors"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T19:33:51.255Z",
+    "original_repository": "spekulatius/awesome-filament",
+    "original_repository_sha": "aab4147deb995977958fed39e3182cede9d2605c",
+    "enhanced_repository": "enhansome/enhansome-filament",
+    "enhanced_repository_description": null,
+    "title": "Awesome Filament with stars"
+  }
+}
