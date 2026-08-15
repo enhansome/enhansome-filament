@@ -267,10 +267,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-14T16:16:54Z",
+            "last_commit": "2026-08-15T12:19:59Z",
             "owner": "pxlrbt",
             "repo": "filament-excel",
-            "stars": 457
+            "stars": 458
           }
         },
         {
@@ -870,7 +870,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T19:27:53.839Z",
+    "last_updated": "2026-08-15T18:55:41.139Z",
     "original_repository": "spekulatius/awesome-filament",
     "original_repository_sha": "aab4147deb995977958fed39e3182cede9d2605c",
     "enhanced_repository": "enhansome/enhansome-filament",
