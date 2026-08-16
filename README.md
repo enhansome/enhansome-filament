@@ -82,7 +82,7 @@ Integrations with popular Laravel packages or core features:
 
 ## Logging
 
-* [Z3d0X/filament-logger](https://github.com/Z3d0X/filament-logger) ⚠️ Archived - Extensible activity logger for filament that works out-of-the-box. Uses [spatie/laravel-activitylog](https://github.com/spatie/laravel-activitylog) ⭐ 5,884 | 🐛 0 | 🌐 PHP | 📅 2026-08-12 under the hood.
+* [Z3d0X/filament-logger](https://github.com/Z3d0X/filament-logger) ⚠️ Archived - Extensible activity logger for filament that works out-of-the-box. Uses [spatie/laravel-activitylog](https://github.com/spatie/laravel-activitylog) ⭐ 5,885 | 🐛 0 | 🌐 PHP | 📅 2026-08-12 under the hood.
 * [saade/filament-laravel-log](https://github.com/saade/filament-laravel-log) ⭐ 120 | 🐛 5 | 🌐 PHP | 📅 2026-08-13 - Access laravel.log file through Filament admin panel.
 
 ## UI
@@ -150,4 +150,4 @@ Integrations with popular Laravel packages or core features:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
