@@ -53,7 +53,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-07-21T19:22:18Z",
+            "last_commit": "2026-08-17T18:14:43Z",
             "owner": "awcodes",
             "repo": "overlook",
             "stars": 193
@@ -180,7 +180,7 @@
             "last_commit": "2026-07-25T03:55:32Z",
             "owner": "bezhanSalleh",
             "repo": "filament-shield",
-            "stars": 2824
+            "stars": 2826
           }
         },
         {
@@ -267,7 +267,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-15T12:19:59Z",
+            "last_commit": "2026-08-17T13:26:51Z",
             "owner": "pxlrbt",
             "repo": "filament-excel",
             "stars": 458
@@ -338,7 +338,7 @@
             "last_commit": "2026-07-30T17:22:48Z",
             "owner": "saade",
             "repo": "filament-fullcalendar",
-            "stars": 415
+            "stars": 416
           }
         },
         {
@@ -377,7 +377,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-02-14T21:20:47Z",
+            "last_commit": "2026-08-17T13:29:33Z",
             "owner": "pxlrbt",
             "repo": "filament-spotlight",
             "stars": 278
@@ -405,7 +405,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-07-21T19:22:25Z",
+            "last_commit": "2026-08-17T18:06:38Z",
             "owner": "awcodes",
             "repo": "filament-quick-create",
             "stars": 248
@@ -419,7 +419,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-12T16:39:38Z",
+            "last_commit": "2026-08-17T13:27:45Z",
             "owner": "pxlrbt",
             "repo": "filament-environment-indicator",
             "stars": 152
@@ -433,7 +433,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-07-21T19:51:28Z",
+            "last_commit": "2026-08-17T18:04:43Z",
             "owner": "awcodes",
             "repo": "filament-badgeable-column",
             "stars": 147
@@ -461,7 +461,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-07-21T19:09:33Z",
+            "last_commit": "2026-08-17T18:07:12Z",
             "owner": "awcodes",
             "repo": "filament-sticky-header",
             "stars": 82
@@ -870,7 +870,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T18:55:08.502Z",
+    "last_updated": "2026-08-17T19:07:12.685Z",
     "original_repository": "spekulatius/awesome-filament",
     "original_repository_sha": "aab4147deb995977958fed39e3182cede9d2605c",
     "enhanced_repository": "enhansome/enhansome-filament",
