@@ -180,7 +180,7 @@
             "last_commit": "2026-07-25T03:55:32Z",
             "owner": "bezhanSalleh",
             "repo": "filament-shield",
-            "stars": 2826
+            "stars": 2825
           }
         },
         {
@@ -267,7 +267,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-17T13:26:51Z",
+            "last_commit": "2026-08-18T08:34:42Z",
             "owner": "pxlrbt",
             "repo": "filament-excel",
             "stars": 458
@@ -377,7 +377,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-17T13:29:33Z",
+            "last_commit": "2026-08-18T08:36:28Z",
             "owner": "pxlrbt",
             "repo": "filament-spotlight",
             "stars": 278
@@ -419,7 +419,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-17T13:27:45Z",
+            "last_commit": "2026-08-18T08:34:38Z",
             "owner": "pxlrbt",
             "repo": "filament-environment-indicator",
             "stars": 152
@@ -870,7 +870,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T19:07:12.685Z",
+    "last_updated": "2026-08-18T19:06:35.433Z",
     "original_repository": "spekulatius/awesome-filament",
     "original_repository_sha": "aab4147deb995977958fed39e3182cede9d2605c",
     "enhanced_repository": "enhansome/enhansome-filament",
