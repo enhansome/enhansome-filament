@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 536198663,
             "language": "PHP",
             "last_commit": "2026-06-30T20:19:39Z",
             "owner": "Z3d0X",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 579537041,
             "language": "PHP",
             "last_commit": "2026-03-05T00:04:44Z",
             "owner": "andrewdwallo",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 458617973,
             "language": "PHP",
             "last_commit": "2026-06-20T15:32:08Z",
             "owner": "stephenjude",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 614453671,
             "language": "PHP",
             "last_commit": "2026-08-17T18:14:43Z",
             "owner": "awcodes",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 482853723,
             "language": "PHP",
             "last_commit": "2025-08-25T19:29:10Z",
             "owner": "ryangjchandler",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 565521536,
             "language": "PHP",
             "last_commit": "2023-07-02T16:04:36Z",
             "owner": "buildix",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 523651672,
             "language": "PHP",
             "last_commit": "2026-06-25T10:59:15Z",
             "owner": "stephenjude",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 553396102,
             "language": "PHP",
             "last_commit": "2026-07-30T16:44:33Z",
             "owner": "statikbe",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 501115392,
             "language": "PHP",
             "last_commit": "2024-07-08T20:11:21Z",
             "owner": "invaders-xx",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 589401798,
             "language": "PHP",
             "last_commit": "2026-06-22T14:32:31Z",
             "owner": "MarJose123",
@@ -150,18 +160,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 445664617,
             "language": "PHP",
             "last_commit": "2024-04-01T11:03:48Z",
             "owner": "reworck",
             "repo": "filament-settings",
             "stars": 43
           }
-        },
-        {
-          "node_type": "item",
-          "title": "ryangjchandler/filament-feature-flags",
-          "description": "Control your Laravel feature flags through a clean Filament interface.",
-          "children": []
         }
       ],
       "title": "Complete Sections"
@@ -176,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 443775406,
             "language": "PHP",
             "last_commit": "2026-07-25T03:55:32Z",
             "owner": "bezhanSalleh",
@@ -190,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 442068787,
             "language": "PHP",
             "last_commit": "2026-07-24T22:07:43Z",
             "owner": "Althinect",
@@ -204,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 443783157,
             "language": "PHP",
             "last_commit": "2026-06-30T16:56:28Z",
             "owner": "shuvroroy",
@@ -218,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 442865035,
             "language": "PHP",
             "last_commit": "2026-06-30T16:45:24Z",
             "owner": "shuvroroy",
@@ -232,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 455479561,
             "language": "PHP",
             "last_commit": "2026-03-07T22:20:59Z",
             "owner": "ralphjsmit",
@@ -246,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 503142236,
             "language": "PHP",
             "last_commit": "2024-03-15T11:21:05Z",
             "owner": "ramnzys",
@@ -257,7 +268,7 @@
       "title": "Integrations"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -266,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 461035717,
             "language": "PHP",
             "last_commit": "2026-08-18T08:34:42Z",
             "owner": "pxlrbt",
@@ -280,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 489477597,
             "language": "PHP",
             "last_commit": "2025-09-08T20:16:13Z",
             "owner": "alperenersoy",
@@ -291,7 +304,7 @@
       "title": "Data Exports"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -300,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 485408748,
             "language": "PHP",
             "last_commit": "2026-03-16T12:22:13Z",
             "owner": "Z3d0X",
@@ -314,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 471219590,
             "language": "PHP",
             "last_commit": "2026-08-13T18:41:19Z",
             "owner": "saade",
@@ -325,7 +340,7 @@
       "title": "Logging"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -334,6 +349,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 452490181,
             "language": "PHP",
             "last_commit": "2026-07-30T17:22:48Z",
             "owner": "saade",
@@ -348,6 +364,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 506847060,
             "language": "PHP",
             "last_commit": "2026-06-27T23:38:44Z",
             "owner": "bezhanSalleh",
@@ -362,6 +379,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 560752987,
             "language": "PHP",
             "last_commit": "2026-04-13T22:13:22Z",
             "owner": "cheesegrits",
@@ -376,6 +394,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 473199709,
             "language": "PHP",
             "last_commit": "2026-08-18T08:36:28Z",
             "owner": "pxlrbt",
@@ -390,6 +409,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 617010831,
             "language": "PHP",
             "last_commit": "2026-06-22T02:32:57Z",
             "owner": "aymanalhattami",
@@ -404,6 +424,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 511175628,
             "language": "PHP",
             "last_commit": "2026-08-17T18:06:38Z",
             "owner": "awcodes",
@@ -418,6 +439,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 513938278,
             "language": "PHP",
             "last_commit": "2026-08-18T08:34:38Z",
             "owner": "pxlrbt",
@@ -432,6 +454,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 569459985,
             "language": "PHP",
             "last_commit": "2026-08-17T18:04:43Z",
             "owner": "awcodes",
@@ -446,6 +469,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 532324437,
             "language": "PHP",
             "last_commit": "2026-03-31T15:30:35Z",
             "owner": "webbingbrasil",
@@ -460,6 +484,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 504232209,
             "language": "PHP",
             "last_commit": "2026-08-17T18:07:12Z",
             "owner": "awcodes",
@@ -474,6 +499,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 534533062,
             "language": "PHP",
             "last_commit": "2026-07-11T10:47:40Z",
             "owner": "MarJose123",
@@ -488,6 +514,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 541449343,
             "language": "PHP",
             "last_commit": "2023-10-09T23:10:51Z",
             "owner": "konnco",
@@ -499,7 +526,7 @@
       "title": "UI"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -508,6 +535,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 439622125,
             "language": "PHP",
             "last_commit": "2025-08-15T19:41:10Z",
             "owner": "mohamedsabil83",
@@ -522,6 +550,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 547262758,
             "language": "PHP",
             "last_commit": "2026-08-04T07:49:06Z",
             "owner": "GuavaCZ",
@@ -536,6 +565,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 561440625,
             "language": "PHP",
             "last_commit": "2024-04-01T18:37:33Z",
             "owner": "camya",
@@ -550,6 +580,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 582709149,
             "language": "PHP",
             "last_commit": "2026-01-12T05:53:42Z",
             "owner": "savannabits",
@@ -564,6 +595,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 605019223,
             "language": "PHP",
             "last_commit": "2024-08-21T12:49:24Z",
             "owner": "lucasgiovanny",
@@ -578,6 +610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 444426809,
             "language": "PHP",
             "last_commit": "2023-11-20T19:41:19Z",
             "owner": "humaidem",
@@ -592,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 489134762,
             "language": "PHP",
             "last_commit": "2026-07-04T20:40:22Z",
             "owner": "TappNetwork",
@@ -606,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 566411734,
             "language": "PHP",
             "last_commit": "2026-07-31T09:54:43Z",
             "owner": "creagia",
@@ -620,6 +655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 496772665,
             "language": "PHP",
             "last_commit": "2025-07-01T00:39:17Z",
             "owner": "yepsua",
@@ -634,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 512655759,
             "language": "Blade",
             "last_commit": "2023-04-21T05:51:08Z",
             "owner": "saadj55",
@@ -648,6 +685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 493096847,
             "language": "PHP",
             "last_commit": "2024-03-02T14:17:13Z",
             "owner": "yepsua",
@@ -662,6 +700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 532010314,
             "language": "Blade",
             "last_commit": "2022-11-05T18:49:52Z",
             "owner": "yemenpoint",
@@ -676,6 +715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 475036432,
             "language": "PHP",
             "last_commit": "2025-02-10T10:13:29Z",
             "owner": "invaders-xx",
@@ -690,6 +730,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 488326054,
             "language": "PHP",
             "last_commit": "2023-07-03T16:42:36Z",
             "owner": "yepsua",
@@ -704,6 +745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 563343742,
             "language": "Blade",
             "last_commit": "2024-08-07T11:55:51Z",
             "owner": "nettantra",
@@ -718,6 +760,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 527925032,
             "language": "PHP",
             "last_commit": "2023-10-09T10:45:20Z",
             "owner": "happytodev",
@@ -732,6 +775,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 532325699,
             "language": "PHP",
             "last_commit": "2023-05-03T19:18:33Z",
             "owner": "emmadesilva",
@@ -746,6 +790,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 508774674,
             "language": "PHP",
             "last_commit": "2023-10-09T02:37:09Z",
             "owner": "jojostx",
@@ -757,7 +802,7 @@
       "title": "Fields"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -766,6 +811,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 461983658,
             "language": "PHP",
             "last_commit": "2026-06-27T23:42:24Z",
             "owner": "bezhanSalleh",
@@ -780,6 +826,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 347338187,
             "language": "PHP",
             "last_commit": "2025-04-22T08:26:07Z",
             "owner": "danilopolani",
@@ -791,7 +838,7 @@
       "title": "Analytics"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -800,6 +847,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 352468212,
             "language": "PHP",
             "last_commit": "2026-07-06T12:40:00Z",
             "owner": "stechstudio",
@@ -814,6 +862,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 475352040,
             "language": "PHP",
             "last_commit": "2026-06-22T17:42:23Z",
             "owner": "DutchCodingCompany",
@@ -828,6 +877,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 483287218,
             "language": "PHP",
             "last_commit": "2023-07-03T06:58:03Z",
             "owner": "artificertech",
@@ -842,36 +892,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 557733053,
             "language": "PHP",
             "last_commit": "2026-01-31T10:51:45Z",
             "owner": "xlitedev",
             "repo": "filament-impersonate",
             "stars": 41
           }
-        },
-        {
-          "node_type": "item",
-          "title": "ryangjchandler/filament-profile",
-          "description": "A simple profile management page for Filament.",
-          "children": []
         }
       ],
       "title": "MISC"
-    },
-    {
-      "description": "Contributions of any kind welcome, just follow the guidelines!",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "Thanks goes to these contributors!",
-      "items": [],
-      "title": "Contributors"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:06:35.433Z",
+    "last_updated": "2026-08-19T12:27:44.318Z",
     "original_repository": "spekulatius/awesome-filament",
+    "original_repository_id": 539508279,
     "original_repository_sha": "aab4147deb995977958fed39e3182cede9d2605c",
     "enhanced_repository": "enhansome/enhansome-filament",
     "enhanced_repository_description": null,
