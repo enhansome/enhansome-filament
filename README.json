@@ -552,7 +552,7 @@
             "archived": false,
             "id": 547262758,
             "language": "PHP",
-            "last_commit": "2026-08-04T07:49:06Z",
+            "last_commit": "2026-08-19T13:06:13Z",
             "owner": "GuavaCZ",
             "repo": "filament-icon-picker",
             "stars": 164
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:27:44.318Z",
+    "last_updated": "2026-08-19T19:02:16.802Z",
     "original_repository": "spekulatius/awesome-filament",
     "original_repository_id": 539508279,
     "original_repository_sha": "aab4147deb995977958fed39e3182cede9d2605c",

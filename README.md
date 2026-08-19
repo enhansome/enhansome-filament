@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 31,840 | 🐛 50 | 🌐 PHP | 📅 2026-08-18 stuff.
+A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 31,843 | 🐛 51 | 🌐 PHP | 📅 2026-08-18 stuff.
 
 <!-- image -->
 
@@ -103,7 +103,7 @@ Integrations with popular Laravel packages or core features:
 ## Fields
 
 * [mohamedsabil83/filament-forms-tinyeditor](https://github.com/mohamedsabil83/filament-forms-tinyeditor) ⚠️ Archived - A TinyMce Editor component for filament.
-* [LukasFreyCZ/filament-icon-picker](https://github.com/LukasFreyCZ/filament-icon-picker) ⭐ 164 | 🐛 15 | 🌐 PHP | 📅 2026-08-04 - An icon picker field for Filament.
+* [LukasFreyCZ/filament-icon-picker](https://github.com/LukasFreyCZ/filament-icon-picker) ⭐ 164 | 🐛 16 | 🌐 PHP | 📅 2026-08-19 - An icon picker field for Filament.
 * [camya/filament-title-with-slug](https://github.com/camya/filament-title-with-slug) ⭐ 134 | 🐛 11 | 🌐 PHP | 📅 2024-04-01 - An advanced "Title With Slug"-input field.
 * [savannabits/filament-signature-pad](https://github.com/savannabits/filament-signature-pad) ⭐ 77 | 🐛 14 | 🌐 PHP | 📅 2026-01-12 - A signature pad field.
 * [lucasgiovanny/filament-multiselect-two-sides](https://github.com/lucasgiovanny/filament-multiselect-two-sides) ⭐ 68 | 🐛 4 | 🌐 PHP | 📅 2024-08-21 - A multiselect field with two sides.
