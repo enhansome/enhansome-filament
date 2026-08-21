@@ -186,7 +186,7 @@
             "last_commit": "2026-07-25T03:55:32Z",
             "owner": "bezhanSalleh",
             "repo": "filament-shield",
-            "stars": 2825
+            "stars": 2826
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2026-08-18T08:34:42Z",
             "owner": "pxlrbt",
             "repo": "filament-excel",
-            "stars": 458
+            "stars": 459
           }
         },
         {
@@ -330,7 +330,7 @@
             "archived": false,
             "id": 471219590,
             "language": "PHP",
-            "last_commit": "2026-08-13T18:41:19Z",
+            "last_commit": "2026-08-21T02:34:12Z",
             "owner": "saade",
             "repo": "filament-laravel-log",
             "stars": 120
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T19:10:07.966Z",
+    "last_updated": "2026-08-21T19:06:17.933Z",
     "original_repository": "spekulatius/awesome-filament",
     "original_repository_id": 539508279,
     "original_repository_sha": "aab4147deb995977958fed39e3182cede9d2605c",
