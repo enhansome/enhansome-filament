@@ -354,7 +354,7 @@
             "last_commit": "2026-07-30T17:22:48Z",
             "owner": "saade",
             "repo": "filament-fullcalendar",
-            "stars": 416
+            "stars": 417
           }
         },
         {
@@ -369,7 +369,7 @@
             "last_commit": "2026-06-27T23:38:44Z",
             "owner": "bezhanSalleh",
             "repo": "filament-language-switch",
-            "stars": 360
+            "stars": 361
           }
         },
         {
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T19:06:17.933Z",
+    "last_updated": "2026-08-22T18:57:41.407Z",
     "original_repository": "spekulatius/awesome-filament",
     "original_repository_id": 539508279,
     "original_repository_sha": "aab4147deb995977958fed39e3182cede9d2605c",
