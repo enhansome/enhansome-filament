@@ -186,7 +186,7 @@
             "last_commit": "2026-07-25T03:55:32Z",
             "owner": "bezhanSalleh",
             "repo": "filament-shield",
-            "stars": 2826
+            "stars": 2827
           }
         },
         {
@@ -213,7 +213,7 @@
             "archived": false,
             "id": 443783157,
             "language": "PHP",
-            "last_commit": "2026-08-24T18:09:33Z",
+            "last_commit": "2026-08-24T21:39:41Z",
             "owner": "shuvroroy",
             "repo": "filament-spatie-laravel-backup",
             "stars": 276
@@ -228,7 +228,7 @@
             "archived": false,
             "id": 442865035,
             "language": "PHP",
-            "last_commit": "2026-06-30T16:45:24Z",
+            "last_commit": "2026-08-24T21:45:36Z",
             "owner": "shuvroroy",
             "repo": "filament-spatie-laravel-health",
             "stars": 195
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:09:36.125Z",
+    "last_updated": "2026-08-25T06:29:12.993Z",
     "original_repository": "spekulatius/awesome-filament",
     "original_repository_id": 539508279,
     "original_repository_sha": "aab4147deb995977958fed39e3182cede9d2605c",
