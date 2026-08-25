@@ -186,7 +186,7 @@
             "last_commit": "2026-07-25T03:55:32Z",
             "owner": "bezhanSalleh",
             "repo": "filament-shield",
-            "stars": 2827
+            "stars": 2826
           }
         },
         {
@@ -213,7 +213,7 @@
             "archived": false,
             "id": 443783157,
             "language": "PHP",
-            "last_commit": "2026-08-24T21:39:41Z",
+            "last_commit": "2026-08-25T09:28:05Z",
             "owner": "shuvroroy",
             "repo": "filament-spatie-laravel-backup",
             "stars": 276
@@ -894,10 +894,10 @@
             "archived": false,
             "id": 557733053,
             "language": "PHP",
-            "last_commit": "2026-01-31T10:51:45Z",
-            "owner": "xlitedev",
-            "repo": "filament-impersonate",
-            "stars": 41
+            "last_commit": "2026-08-25T12:58:35Z",
+            "owner": "packstub",
+            "repo": "filament-account-switcher",
+            "stars": 42
           }
         }
       ],
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:29:12.993Z",
+    "last_updated": "2026-08-25T19:07:59.679Z",
     "original_repository": "spekulatius/awesome-filament",
     "original_repository_id": 539508279,
     "original_repository_sha": "aab4147deb995977958fed39e3182cede9d2605c",
