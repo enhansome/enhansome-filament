@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 31,897 | 🐛 51 | 🌐 PHP | 📅 2026-08-26 stuff.
+A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 31,902 | 🐛 51 | 🌐 PHP | 📅 2026-08-26 stuff.
 
 <!-- image -->
 
@@ -123,7 +123,7 @@ Integrations with popular Laravel packages or core features:
 
 ## Charts
 
-* [leandrocfe/filament-apex-charts](https://github.com/leandrocfe/filament-apex-charts) ⭐ 500 | 🐛 3 | 🌐 PHP | 📅 2026-08-23 - Apex Charts integration for Filament PHP.
+* [leandrocfe/filament-apex-charts](https://github.com/leandrocfe/filament-apex-charts) ⭐ 500 | 🐛 1 | 🌐 PHP | 📅 2026-08-27 - Apex Charts integration for Filament PHP.
 
 ## Analytics
 
@@ -150,4 +150,4 @@ Integrations with popular Laravel packages or core features:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

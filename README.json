@@ -905,9 +905,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T20:30:58.220Z",
-    "original_repository": "spekulatius/awesome-filament",
-    "original_repository_id": 539508279,
+    "last_updated": "2026-08-27T11:36:52.917Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 539508279,
+      "language": null,
+      "last_commit": "2024-05-17T21:34:39Z",
+      "owner": "spekulatius",
+      "repo": "awesome-filament",
+      "stars": 203
+    },
     "original_repository_sha": "aab4147deb995977958fed39e3182cede9d2605c",
     "enhanced_repository": "enhansome/enhansome-filament",
     "enhanced_repository_description": null,
