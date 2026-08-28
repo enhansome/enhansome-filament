@@ -213,7 +213,7 @@
             "archived": false,
             "id": 443783157,
             "language": "PHP",
-            "last_commit": "2026-08-26T07:43:12Z",
+            "last_commit": "2026-08-27T18:27:48Z",
             "owner": "shuvroroy",
             "repo": "filament-spatie-laravel-backup",
             "stars": 276
@@ -228,7 +228,7 @@
             "archived": false,
             "id": 442865035,
             "language": "PHP",
-            "last_commit": "2026-08-24T21:45:36Z",
+            "last_commit": "2026-08-27T18:00:34Z",
             "owner": "shuvroroy",
             "repo": "filament-spatie-laravel-health",
             "stars": 195
@@ -354,7 +354,7 @@
             "last_commit": "2026-07-30T17:22:48Z",
             "owner": "saade",
             "repo": "filament-fullcalendar",
-            "stars": 417
+            "stars": 418
           }
         },
         {
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:36:52.917Z",
+    "last_updated": "2026-08-28T02:15:45.448Z",
     "original_repository_info": {
       "archived": false,
       "id": 539508279,
