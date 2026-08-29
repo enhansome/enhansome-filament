@@ -16,7 +16,8 @@
             "owner": "Z3d0X",
             "repo": "filament-fabricator",
             "stars": 385
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "andrewdwallo",
             "repo": "filament-companies",
             "stars": 353
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "stephenjude",
             "repo": "filament-blog",
             "stars": 209
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "awcodes",
             "repo": "overlook",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "ryangjchandler",
             "repo": "filament-navigation",
             "stars": 180
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "buildix",
             "repo": "timex",
             "stars": 127
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "stephenjude",
             "repo": "filament-debugger",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "statikbe",
             "repo": "laravel-filament-chained-translation-manager",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "invaders-xx",
             "repo": "filament-kanban-board",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "MarJose123",
             "repo": "filament-webhook-server",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "reworck",
             "repo": "filament-settings",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         }
       ],
       "title": "Complete Sections"
@@ -186,8 +197,9 @@
             "last_commit": "2026-07-25T03:55:32Z",
             "owner": "bezhanSalleh",
             "repo": "filament-shield",
-            "stars": 2826
-          }
+            "stars": 2827
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "Althinect",
             "repo": "filament-spatie-roles-permissions",
             "stars": 351
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "shuvroroy",
             "repo": "filament-spatie-laravel-backup",
             "stars": 276
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "shuvroroy",
             "repo": "filament-spatie-laravel-health",
             "stars": 195
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "ralphjsmit",
             "repo": "laravel-filament-seo",
             "stars": 153
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "ramnzys",
             "repo": "filament-email-log",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         }
       ],
       "title": "Integrations"
@@ -283,7 +300,8 @@
             "owner": "pxlrbt",
             "repo": "filament-excel",
             "stars": 459
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "alperenersoy",
             "repo": "filament-export",
             "stars": 273
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         }
       ],
       "title": "Data Exports"
@@ -319,7 +338,8 @@
             "owner": "Z3d0X",
             "repo": "filament-logger",
             "stars": 389
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "saade",
             "repo": "filament-laravel-log",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         }
       ],
       "title": "Logging"
@@ -355,7 +376,8 @@
             "owner": "saade",
             "repo": "filament-fullcalendar",
             "stars": 418
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -370,7 +392,8 @@
             "owner": "bezhanSalleh",
             "repo": "filament-language-switch",
             "stars": 361
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -385,7 +408,8 @@
             "owner": "cheesegrits",
             "repo": "filament-google-maps",
             "stars": 327
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -400,7 +424,8 @@
             "owner": "pxlrbt",
             "repo": "filament-spotlight",
             "stars": 278
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -415,7 +440,8 @@
             "owner": "aymanalhattami",
             "repo": "filament-page-with-sidebar",
             "stars": 272
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -430,7 +456,8 @@
             "owner": "awcodes",
             "repo": "filament-quick-create",
             "stars": 248
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -445,7 +472,8 @@
             "owner": "pxlrbt",
             "repo": "filament-environment-indicator",
             "stars": 152
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -460,7 +488,8 @@
             "owner": "awcodes",
             "repo": "filament-badgeable-column",
             "stars": 147
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -475,7 +504,8 @@
             "owner": "webbingbrasil",
             "repo": "filament-copyactions",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -490,7 +520,8 @@
             "owner": "awcodes",
             "repo": "filament-sticky-header",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -505,7 +536,8 @@
             "owner": "MarJose123",
             "repo": "filament-lockscreen",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -520,7 +552,8 @@
             "owner": "konnco",
             "repo": "filament-safely-delete",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         }
       ],
       "title": "UI"
@@ -541,7 +574,8 @@
             "owner": "mohamedsabil83",
             "repo": "filament-forms-tinyeditor",
             "stars": 198
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -556,7 +590,8 @@
             "owner": "GuavaCZ",
             "repo": "filament-icon-picker",
             "stars": 164
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -571,7 +606,8 @@
             "owner": "camya",
             "repo": "filament-title-with-slug",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -586,7 +622,8 @@
             "owner": "savannabits",
             "repo": "filament-signature-pad",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -601,7 +638,8 @@
             "owner": "lucasgiovanny",
             "repo": "filament-multiselect-two-sides",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -616,7 +654,8 @@
             "owner": "humaidem",
             "repo": "filament-map-picker",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -631,7 +670,8 @@
             "owner": "TappNetwork",
             "repo": "filament-timezone-field",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -646,7 +686,8 @@
             "owner": "creagia",
             "repo": "filament-code-field",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -661,7 +702,8 @@
             "owner": "yepsua",
             "repo": "filament-rating-field",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -676,7 +718,8 @@
             "owner": "saadj55",
             "repo": "filament-copyable",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -691,7 +734,8 @@
             "owner": "yepsua",
             "repo": "filament-range-field",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -706,7 +750,8 @@
             "owner": "yemenpoint",
             "repo": "filament-google-map-location-picker",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -721,7 +766,8 @@
             "owner": "invaders-xx",
             "repo": "filament-jsoneditor",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -736,7 +782,8 @@
             "owner": "yepsua",
             "repo": "filament-captcha-field",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -751,7 +798,8 @@
             "owner": "nettantra",
             "repo": "filament-slider-input-field",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -766,7 +814,8 @@
             "owner": "happytodev",
             "repo": "filament-tailwind-color-picker",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -781,7 +830,8 @@
             "owner": "emmadesilva",
             "repo": "filament-simple-highlight-field-plugin",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -796,7 +846,8 @@
             "owner": "jojostx",
             "repo": "filament-tel-input",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         }
       ],
       "title": "Fields"
@@ -816,8 +867,9 @@
             "last_commit": "2026-06-27T23:42:24Z",
             "owner": "bezhanSalleh",
             "repo": "filament-google-analytics",
-            "stars": 215
-          }
+            "stars": 216
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -832,7 +884,8 @@
             "owner": "danilopolani",
             "repo": "filament-plausible-widget",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         }
       ],
       "title": "Analytics"
@@ -853,7 +906,8 @@
             "owner": "stechstudio",
             "repo": "filament-impersonate",
             "stars": 397
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -868,7 +922,8 @@
             "owner": "DutchCodingCompany",
             "repo": "filament-socialite",
             "stars": 220
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -883,7 +938,8 @@
             "owner": "artificertech",
             "repo": "filament-multi-context",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         },
         {
           "node_type": "item",
@@ -898,14 +954,15 @@
             "owner": "packstub",
             "repo": "filament-account-switcher",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-29T01:49:31.777Z"
         }
       ],
       "title": "MISC"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:15:45.448Z",
+    "last_updated": "2026-08-29T01:49:31.777Z",
     "original_repository_info": {
       "archived": false,
       "id": 539508279,
