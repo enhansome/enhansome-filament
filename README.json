@@ -96,7 +96,7 @@
             "id": 614453671,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-17T18:14:43Z",
+            "last_commit": "2026-08-31T15:38:37Z",
             "open_issues": 0,
             "owner": "awcodes",
             "repo": "overlook",
@@ -105,27 +105,6 @@
               "filament",
               "filament-plugin"
             ]
-          },
-          "first_seen": "2026-08-29T01:49:31.777Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ryangjchandler/filament-navigation",
-          "description": "Build structured navigation menus in Filament.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Build structured navigation menus in Filament.",
-            "homepage": null,
-            "id": 482853723,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2025-08-25T19:29:10Z",
-            "open_issues": 0,
-            "owner": "ryangjchandler",
-            "repo": "filament-navigation",
-            "stars": 180,
-            "topics": []
           },
           "first_seen": "2026-08-29T01:49:31.777Z"
         },
@@ -312,27 +291,6 @@
         },
         {
           "node_type": "item",
-          "title": "Althinect/filament-spatie-roles-permissions",
-          "description": "Integration with .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 442068787,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2026-07-24T22:07:43Z",
-            "open_issues": 1,
-            "owner": "Althinect",
-            "repo": "filament-spatie-roles-permissions",
-            "stars": 351,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:49:31.777Z"
-        },
-        {
-          "node_type": "item",
           "title": "shuvroroy/filament-spatie-laravel-backup",
           "description": "Integrate with .",
           "children": [],
@@ -487,35 +445,31 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Z3d0X/filament-logger",
-          "description": "Extensible activity logger for filament that works out-of-the-box. Uses spatie/laravel-activitylog under the hood.",
+          "title": "webbingbrasil/filament-advancedfilter",
+          "description": "A collection of easy-to-use filters with clause conditions to Filament.",
           "children": [],
           "repo_info": {
-            "archived": true,
-            "description": "Extensible activity logger for filament that works out-of-the-box.",
+            "archived": false,
+            "description": "A collection of easy-to-use filters with clause conditions to Filament",
             "homepage": null,
-            "id": 485408748,
+            "id": 478760647,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-03-16T12:22:13Z",
-            "open_issues": 11,
-            "owner": "Z3d0X",
-            "repo": "filament-logger",
-            "stars": 389,
-            "topics": [
-              "activity-logger",
-              "activitylog",
-              "filamentadmin",
-              "filamentphp",
-              "hacktoberfest",
-              "laravel",
-              "laravel-filament",
-              "log",
-              "logger"
-            ]
+            "last_commit": "2026-03-31T15:43:11Z",
+            "open_issues": 5,
+            "owner": "webbingbrasil",
+            "repo": "filament-advancedfilter",
+            "stars": 148,
+            "topics": []
           },
-          "first_seen": "2026-08-29T01:49:31.777Z"
-        },
+          "first_seen": "2026-08-31T22:57:31.176Z"
+        }
+      ],
+      "title": "Filtering"
+    },
+    {
+      "description": null,
+      "items": [
         {
           "node_type": "item",
           "title": "saade/filament-laravel-log",
@@ -681,11 +635,11 @@
             "id": 511175628,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-17T18:06:38Z",
+            "last_commit": "2026-08-31T15:35:49Z",
             "open_issues": 0,
             "owner": "awcodes",
             "repo": "filament-quick-create",
-            "stars": 248,
+            "stars": 250,
             "topics": [
               "filament",
               "filament-plugin"
@@ -730,7 +684,7 @@
             "id": 569459985,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-17T18:04:43Z",
+            "last_commit": "2026-08-31T15:34:33Z",
             "open_issues": 0,
             "owner": "awcodes",
             "repo": "filament-badgeable-column",
@@ -775,7 +729,7 @@
             "id": 504232209,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-17T18:07:12Z",
+            "last_commit": "2026-08-31T15:35:56Z",
             "open_issues": 0,
             "owner": "awcodes",
             "repo": "filament-sticky-header",
@@ -840,32 +794,6 @@
     {
       "description": null,
       "items": [
-        {
-          "node_type": "item",
-          "title": "mohamedsabil83/filament-forms-tinyeditor",
-          "description": "A TinyMce Editor component for filament.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "A TinyMce Editor component for filament",
-            "homepage": null,
-            "id": 439622125,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2025-08-15T19:41:10Z",
-            "open_issues": 7,
-            "owner": "mohamedsabil83",
-            "repo": "filament-forms-tinyeditor",
-            "stars": 198,
-            "topics": [
-              "filament",
-              "forms",
-              "laravel",
-              "tinyeditor"
-            ]
-          },
-          "first_seen": "2026-08-29T01:49:31.777Z"
-        },
         {
           "node_type": "item",
           "title": "LukasFreyCZ/filament-icon-picker",
@@ -1365,27 +1293,6 @@
         },
         {
           "node_type": "item",
-          "title": "artificertech/filament-multi-context",
-          "description": "A package for adding multiple contexts to the filament admin panel.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "A package for adding multiple contexts to the filament admin panel",
-            "homepage": null,
-            "id": 483287218,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2023-07-03T06:58:03Z",
-            "open_issues": 7,
-            "owner": "artificertech",
-            "repo": "filament-multi-context",
-            "stars": 86,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:49:31.777Z"
-        },
-        {
-          "node_type": "item",
           "title": "xlite-dev/filament-impersonate",
           "description": "Filament Impersonate is a plugin that allows you to authenticate as your users.",
           "children": [],
@@ -1396,7 +1303,7 @@
             "id": 557733053,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-26T11:32:23Z",
+            "last_commit": "2026-08-31T06:50:25Z",
             "open_issues": 0,
             "owner": "packstub",
             "repo": "filament-account-switcher",
@@ -1410,7 +1317,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T21:20:52.381Z",
+    "last_updated": "2026-08-31T22:57:31.176Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
@@ -1418,8 +1325,8 @@
       "id": 539508279,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2024-05-17T21:34:39Z",
-      "open_issues": 4,
+      "last_commit": "2026-08-31T14:05:13Z",
+      "open_issues": 3,
       "owner": "spekulatius",
       "repo": "awesome-filament",
       "stars": 203,
@@ -1432,7 +1339,7 @@
         "filamentphp"
       ]
     },
-    "original_repository_sha": "aab4147deb995977958fed39e3182cede9d2605c",
+    "original_repository_sha": "cf90536618b90c86ee323a5e758f0ccddcbe80df",
     "enhanced_repository": "enhansome/enhansome-filament",
     "enhanced_repository_description": null,
     "title": "Awesome Filament with stars"
