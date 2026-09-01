@@ -270,7 +270,7 @@
             "open_issues": 4,
             "owner": "bezhanSalleh",
             "repo": "filament-shield",
-            "stars": 2826,
+            "stars": 2827,
             "topics": [
               "acl",
               "easy-access-management",
@@ -639,7 +639,7 @@
             "open_issues": 0,
             "owner": "awcodes",
             "repo": "filament-quick-create",
-            "stars": 250,
+            "stars": 251,
             "topics": [
               "filament",
               "filament-plugin"
@@ -945,7 +945,7 @@
             "id": 566411734,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-07-31T09:54:43Z",
+            "last_commit": "2026-09-01T10:02:40Z",
             "open_issues": 1,
             "owner": "creagia",
             "repo": "filament-code-field",
@@ -1317,7 +1317,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T22:57:31.176Z",
+    "last_updated": "2026-09-01T21:11:59.789Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
@@ -1325,7 +1325,7 @@
       "id": 539508279,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-08-31T14:05:13Z",
+      "last_commit": "2026-09-01T10:26:56Z",
       "open_issues": 3,
       "owner": "spekulatius",
       "repo": "awesome-filament",
