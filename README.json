@@ -16,7 +16,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-06-30T20:19:39Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "Z3d0X",
             "repo": "filament-fabricator",
             "stars": 385,
@@ -540,7 +540,7 @@
             "open_issues": 2,
             "owner": "bezhanSalleh",
             "repo": "filament-language-switch",
-            "stars": 361,
+            "stars": 362,
             "topics": [
               "filament-plugin",
               "filamentadmin",
@@ -684,7 +684,7 @@
             "id": 569459985,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-31T15:34:33Z",
+            "last_commit": "2026-09-02T14:51:10Z",
             "open_issues": 0,
             "owner": "awcodes",
             "repo": "filament-badgeable-column",
@@ -1307,7 +1307,7 @@
             "open_issues": 0,
             "owner": "packstub",
             "repo": "filament-account-switcher",
-            "stars": 42,
+            "stars": 43,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:31.777Z"
@@ -1317,7 +1317,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T21:11:59.789Z",
+    "last_updated": "2026-09-02T21:11:26.630Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
