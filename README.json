@@ -327,7 +327,7 @@
             "id": 442865035,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-27T18:00:34Z",
+            "last_commit": "2026-09-02T22:54:36Z",
             "open_issues": 0,
             "owner": "shuvroroy",
             "repo": "filament-spatie-laravel-health",
@@ -540,7 +540,7 @@
             "open_issues": 2,
             "owner": "bezhanSalleh",
             "repo": "filament-language-switch",
-            "stars": 362,
+            "stars": 361,
             "topics": [
               "filament-plugin",
               "filamentadmin",
@@ -1303,7 +1303,7 @@
             "id": 557733053,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-31T06:50:25Z",
+            "last_commit": "2026-09-03T15:12:54Z",
             "open_issues": 0,
             "owner": "packstub",
             "repo": "filament-account-switcher",
@@ -1317,7 +1317,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T21:11:26.630Z",
+    "last_updated": "2026-09-03T21:12:12.311Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",

@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 31,956 | 🐛 37 | 🌐 PHP | 📅 2026-09-01 stuff.
+A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 31,975 | 🐛 41 | 🌐 PHP | 📅 2026-09-02 stuff.
 
 <!-- image -->
 
@@ -59,8 +59,8 @@ Complete sections to cover functionality such as a CMS, blog, etc.
 Integrations with popular Laravel packages or core features:
 
 * [bezhanSalleh/filament-shield](https://github.com/bezhanSalleh/filament-shield) ⭐ 2,827 | 🐛 4 | 🌐 PHP | 📅 2026-07-25 - The easiest and most intuitive way to add access management to your Filament Admin Resources, Pages & Widgets through `spatie/laravel-permission`.
-* [shuvroroy/filament-spatie-laravel-backup](https://github.com/shuvroroy/filament-spatie-laravel-backup) ⭐ 276 | 🐛 0 | 🌐 PHP | 📅 2026-08-30 - Integrate with [`spatie/laravel-backup`](https://github.com/spatie/laravel-backup) ⭐ 6,020 | 🐛 0 | 🌐 PHP | 📅 2026-08-20.
-* [shuvroroy/filament-spatie-laravel-health](https://github.com/shuvroroy/filament-spatie-laravel-health) ⭐ 196 | 🐛 0 | 🌐 PHP | 📅 2026-08-27 - Monitor the health of a Laravel application using [`spatie/laravel-health`](https://github.com/spatie/laravel-health) ⭐ 885 | 🐛 1 | 🌐 PHP | 📅 2026-08-17.
+* [shuvroroy/filament-spatie-laravel-backup](https://github.com/shuvroroy/filament-spatie-laravel-backup) ⭐ 276 | 🐛 0 | 🌐 PHP | 📅 2026-08-30 - Integrate with [`spatie/laravel-backup`](https://github.com/spatie/laravel-backup) ⭐ 6,022 | 🐛 0 | 🌐 PHP | 📅 2026-08-20.
+* [shuvroroy/filament-spatie-laravel-health](https://github.com/shuvroroy/filament-spatie-laravel-health) ⭐ 196 | 🐛 0 | 🌐 PHP | 📅 2026-09-02 - Monitor the health of a Laravel application using [`spatie/laravel-health`](https://github.com/spatie/laravel-health) ⭐ 885 | 🐛 1 | 🌐 PHP | 📅 2026-08-17.
 * [ralphjsmit/laravel-filament-seo](https://github.com/ralphjsmit/laravel-filament-seo) ⭐ 153 | 🐛 3 | 🌐 PHP | 📅 2026-03-07 - A package to combine the power of Laravel SEO and Filament Admin.
 * [ramnzys/filament-email-log](https://github.com/ramnzys/filament-email-log) ⭐ 52 | 🐛 13 | 🌐 PHP | 📅 2024-03-15 - A Filament resource to view all Laravel sent emails.
 
@@ -84,7 +84,7 @@ Integrations with popular Laravel packages or core features:
 ## UI
 
 * [saade/filament-fullcalendar](https://github.com/saade/filament-fullcalendar) ⭐ 418 | 🐛 11 | 🌐 PHP | 📅 2026-07-30 - A Calendar widget for Filamant.
-* [bezhanSalleh/filament-language-switch](https://github.com/bezhanSalleh/filament-language-switch) ⭐ 362 | 🐛 2 | 🌐 PHP | 📅 2026-06-27 - Zero config Language Switch (Changer/Localizer) plugin for Filamentphp Admin.
+* [bezhanSalleh/filament-language-switch](https://github.com/bezhanSalleh/filament-language-switch) ⭐ 361 | 🐛 2 | 🌐 PHP | 📅 2026-06-27 - Zero config Language Switch (Changer/Localizer) plugin for Filamentphp Admin.
 * [cheesegrits/filament-google-maps](https://github.com/cheesegrits/filament-google-maps) ⭐ 327 | 🐛 78 | 🌐 PHP | 📅 2026-04-13 - A collection of Fields and Widgets to work with Google Maps.
 * [pxlrbt/filament-spotlight](https://github.com/pxlrbt/filament-spotlight) ⭐ 278 | 🐛 1 | 🌐 PHP | 📅 2026-08-18 - Quickly navigate your Filament pages.
 * [aymanalhattami/filament-page-with-sidebar](https://github.com/aymanalhattami/filament-page-with-sidebar) ⭐ 272 | 🐛 1 | 🌐 PHP | 📅 2026-06-22 - A sidebar for Filament Pages supporting RTL and LTR.
@@ -129,7 +129,7 @@ Integrations with popular Laravel packages or core features:
 
 * [stechstudio/filament-impersonate](https://github.com/stechstudio/filament-impersonate) ⭐ 397 | 🐛 0 | 🌐 PHP | 📅 2026-07-06 - Impersonate another user out of Filament.
 * [DutchCodingCompany/filament-socialite](https://github.com/DutchCodingCompany/filament-socialite) ⭐ 220 | 🐛 4 | 🌐 PHP | 📅 2026-06-22 - Add OAuth login through Laravel Socialite to Filament.
-* [xlite-dev/filament-impersonate](https://github.com/xlite-dev/filament-impersonate) ⭐ 43 | 🐛 0 | 🌐 PHP | 📅 2026-08-31 - Filament Impersonate is a plugin that allows you to authenticate as your users.
+* [xlite-dev/filament-impersonate](https://github.com/xlite-dev/filament-impersonate) ⭐ 43 | 🐛 0 | 🌐 PHP | 📅 2026-09-03 - Filament Impersonate is a plugin that allows you to authenticate as your users.
 
 <!-- END CONTENT -->
 
@@ -143,4 +143,4 @@ Integrations with popular Laravel packages or core features:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
