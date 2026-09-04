@@ -96,7 +96,7 @@
             "id": 614453671,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-31T15:38:37Z",
+            "last_commit": "2026-09-04T16:42:50Z",
             "open_issues": 0,
             "owner": "awcodes",
             "repo": "overlook",
@@ -270,7 +270,7 @@
             "open_issues": 4,
             "owner": "bezhanSalleh",
             "repo": "filament-shield",
-            "stars": 2827,
+            "stars": 2826,
             "topics": [
               "acl",
               "easy-access-management",
@@ -401,7 +401,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-08-18T08:34:42Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "pxlrbt",
             "repo": "filament-excel",
             "stars": 459,
@@ -519,7 +519,7 @@
             "open_issues": 11,
             "owner": "saade",
             "repo": "filament-fullcalendar",
-            "stars": 418,
+            "stars": 417,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:31.777Z"
@@ -635,7 +635,7 @@
             "id": 511175628,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-31T15:35:49Z",
+            "last_commit": "2026-09-04T17:18:42Z",
             "open_issues": 0,
             "owner": "awcodes",
             "repo": "filament-quick-create",
@@ -688,7 +688,7 @@
             "open_issues": 0,
             "owner": "awcodes",
             "repo": "filament-badgeable-column",
-            "stars": 147,
+            "stars": 148,
             "topics": [
               "filament",
               "filament-plugin"
@@ -729,11 +729,11 @@
             "id": 504232209,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-31T15:35:56Z",
+            "last_commit": "2026-09-04T18:58:39Z",
             "open_issues": 0,
             "owner": "awcodes",
             "repo": "filament-sticky-header",
-            "stars": 82,
+            "stars": 83,
             "topics": [
               "filament",
               "filament-plugin"
@@ -1303,7 +1303,7 @@
             "id": 557733053,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-03T15:12:54Z",
+            "last_commit": "2026-09-04T17:32:39Z",
             "open_issues": 0,
             "owner": "packstub",
             "repo": "filament-account-switcher",
@@ -1317,7 +1317,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T21:12:12.311Z",
+    "last_updated": "2026-09-04T20:54:41.054Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
