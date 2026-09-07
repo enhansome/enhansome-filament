@@ -96,7 +96,7 @@
             "id": 614453671,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-04T16:42:50Z",
+            "last_commit": "2026-09-07T18:54:58Z",
             "open_issues": 0,
             "owner": "awcodes",
             "repo": "overlook",
@@ -1303,7 +1303,7 @@
             "id": 557733053,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-04T17:32:39Z",
+            "last_commit": "2026-09-07T09:13:27Z",
             "open_issues": 0,
             "owner": "packstub",
             "repo": "filament-account-switcher",
@@ -1317,7 +1317,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T20:37:33.492Z",
+    "last_updated": "2026-09-07T21:41:07.878Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
