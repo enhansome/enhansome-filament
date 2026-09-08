@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 32,007 | 🐛 16 | 🌐 PHP | 📅 2026-09-07 stuff.
+A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 32,012 | 🐛 17 | 🌐 PHP | 📅 2026-09-08 stuff.
 
 <!-- image -->
 
@@ -49,7 +49,7 @@ Complete sections to cover functionality such as a CMS, blog, etc.
 * [awcodes/overlook](https://github.com/awcodes/overlook) ⭐ 193 | 🐛 0 | 🌐 PHP | 📅 2026-09-07 - Adds an app overview widget to your admin panel.
 * [buildix/timex](https://github.com/buildix/timex) ⭐ 127 | 🐛 11 | 🌐 PHP | 📅 2023-07-02 - Calendar plugin for Filament.
 * [stephenjude/filament-debugger](https://github.com/stephenjude/filament-debugger) ⭐ 105 | 🐛 0 | 🌐 PHP | 📅 2026-06-25 - Easily add Laravel Telescope and Horizon to Filament.
-* [statikbe/laravel-filament-chained-translation-manager](https://github.com/statikbe/laravel-filament-chained-translation-manager) ⭐ 95 | 🐛 2 | 🌐 PHP | 📅 2026-07-30 - A translation manager tool using [Laravel Chained Translator](https://github.com/statikbe/laravel-chained-translator) ⭐ 37 | 🐛 0 | 🌐 PHP | 📅 2026-04-26.
+* [statikbe/laravel-filament-chained-translation-manager](https://github.com/statikbe/laravel-filament-chained-translation-manager) ⭐ 95 | 🐛 2 | 🌐 PHP | 📅 2026-09-08 - A translation manager tool using [Laravel Chained Translator](https://github.com/statikbe/laravel-chained-translator) ⭐ 37 | 🐛 0 | 🌐 PHP | 📅 2026-04-26.
 * [invaders-xx/filament-kanban-board](https://github.com/invaders-xx/filament-kanban-board) ⭐ 76 | 🐛 2 | 🌐 PHP | 📅 2024-07-08 - Kanban-Board for Filament.
 * [MarJose123/filament-webhook-server](https://github.com/MarJose123/filament-webhook-server) ⭐ 52 | 🐛 1 | 🌐 PHP | 📅 2026-06-22 - Send webhooks from Filament apps.
 * [reworck/filament-settings](https://github.com/reworck/filament-settings) ⭐ 43 | 🐛 1 | 🌐 PHP | 📅 2024-04-01 - Easy setting management for filament.
@@ -58,9 +58,9 @@ Complete sections to cover functionality such as a CMS, blog, etc.
 
 Integrations with popular Laravel packages or core features:
 
-* [bezhanSalleh/filament-shield](https://github.com/bezhanSalleh/filament-shield) ⭐ 2,827 | 🐛 4 | 🌐 PHP | 📅 2026-07-25 - The easiest and most intuitive way to add access management to your Filament Admin Resources, Pages & Widgets through `spatie/laravel-permission`.
-* [shuvroroy/filament-spatie-laravel-backup](https://github.com/shuvroroy/filament-spatie-laravel-backup) ⭐ 276 | 🐛 0 | 🌐 PHP | 📅 2026-09-06 - Integrate with [`spatie/laravel-backup`](https://github.com/spatie/laravel-backup) ⭐ 6,022 | 🐛 0 | 🌐 PHP | 📅 2026-08-20.
-* [shuvroroy/filament-spatie-laravel-health](https://github.com/shuvroroy/filament-spatie-laravel-health) ⭐ 196 | 🐛 0 | 🌐 PHP | 📅 2026-09-02 - Monitor the health of a Laravel application using [`spatie/laravel-health`](https://github.com/spatie/laravel-health) ⭐ 885 | 🐛 2 | 🌐 PHP | 📅 2026-08-17.
+* [bezhanSalleh/filament-shield](https://github.com/bezhanSalleh/filament-shield) ⭐ 2,827 | 🐛 5 | 🌐 PHP | 📅 2026-07-25 - The easiest and most intuitive way to add access management to your Filament Admin Resources, Pages & Widgets through `spatie/laravel-permission`.
+* [shuvroroy/filament-spatie-laravel-backup](https://github.com/shuvroroy/filament-spatie-laravel-backup) ⭐ 277 | 🐛 0 | 🌐 PHP | 📅 2026-09-06 - Integrate with [`spatie/laravel-backup`](https://github.com/spatie/laravel-backup) ⭐ 6,021 | 🐛 0 | 🌐 PHP | 📅 2026-08-20.
+* [shuvroroy/filament-spatie-laravel-health](https://github.com/shuvroroy/filament-spatie-laravel-health) ⭐ 196 | 🐛 0 | 🌐 PHP | 📅 2026-09-02 - Monitor the health of a Laravel application using [`spatie/laravel-health`](https://github.com/spatie/laravel-health) ⭐ 886 | 🐛 2 | 🌐 PHP | 📅 2026-08-17.
 * [ralphjsmit/laravel-filament-seo](https://github.com/ralphjsmit/laravel-filament-seo) ⭐ 153 | 🐛 3 | 🌐 PHP | 📅 2026-03-07 - A package to combine the power of Laravel SEO and Filament Admin.
 * [ramnzys/filament-email-log](https://github.com/ramnzys/filament-email-log) ⭐ 52 | 🐛 13 | 🌐 PHP | 📅 2024-03-15 - A Filament resource to view all Laravel sent emails.
 
@@ -83,7 +83,7 @@ Integrations with popular Laravel packages or core features:
 
 ## UI
 
-* [saade/filament-fullcalendar](https://github.com/saade/filament-fullcalendar) ⭐ 417 | 🐛 11 | 🌐 PHP | 📅 2026-07-30 - A Calendar widget for Filamant.
+* [saade/filament-fullcalendar](https://github.com/saade/filament-fullcalendar) ⭐ 417 | 🐛 12 | 🌐 PHP | 📅 2026-07-30 - A Calendar widget for Filamant.
 * [bezhanSalleh/filament-language-switch](https://github.com/bezhanSalleh/filament-language-switch) ⭐ 361 | 🐛 2 | 🌐 PHP | 📅 2026-06-27 - Zero config Language Switch (Changer/Localizer) plugin for Filamentphp Admin.
 * [cheesegrits/filament-google-maps](https://github.com/cheesegrits/filament-google-maps) ⭐ 327 | 🐛 78 | 🌐 PHP | 📅 2026-04-13 - A collection of Fields and Widgets to work with Google Maps.
 * [pxlrbt/filament-spotlight](https://github.com/pxlrbt/filament-spotlight) ⭐ 278 | 🐛 1 | 🌐 PHP | 📅 2026-08-18 - Quickly navigate your Filament pages.
@@ -104,7 +104,7 @@ Integrations with popular Laravel packages or core features:
 * [lucasgiovanny/filament-multiselect-two-sides](https://github.com/lucasgiovanny/filament-multiselect-two-sides) ⭐ 68 | 🐛 4 | 🌐 PHP | 📅 2024-08-21 - A multiselect field with two sides.
 * [humaidem/filament-map-picker](https://github.com/humaidem/filament-map-picker) ⭐ 59 | 🐛 5 | 🌐 PHP | 📅 2023-11-20 - Filament Map Field.
 * [TappNetwork/filament-timezone-field](https://github.com/TappNetwork/filament-timezone-field) ⭐ 57 | 🐛 3 | 🌐 PHP | 📅 2026-07-04 - A Timezone field for FilamentPHP.
-* [creagia/filament-code-field](https://github.com/creagia/filament-code-field) ⭐ 57 | 🐛 1 | 🌐 PHP | 📅 2026-09-01 - A CodeMirror powered code field for the Filamentphp admin panel and form builder.
+* [creagia/filament-code-field](https://github.com/creagia/filament-code-field) ⭐ 57 | 🐛 1 | 🌐 PHP | 📅 2026-09-08 - A CodeMirror powered code field for the Filamentphp admin panel and form builder.
 * [yepsua/filament-rating-field](https://github.com/yepsua/filament-rating-field) ⭐ 47 | 🐛 3 | 🌐 PHP | 📅 2025-07-01 - Rating field for the Filament forms.
 * [saadj55/filament-copyable](https://github.com/saadj55/filament-copyable) ⭐ 36 | 🐛 2 | 🌐 Blade | 📅 2023-04-21 - Copyable Text Column and Field for Filament PHP.
 * [yepsua/filament-range-field](https://github.com/yepsua/filament-range-field) ⭐ 36 | 🐛 3 | 🌐 PHP | 📅 2024-03-02 - Provides the missing range field for the Filament forms.
@@ -143,4 +143,4 @@ Integrations with popular Laravel packages or core features:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._

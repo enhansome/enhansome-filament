@@ -170,7 +170,7 @@
             "id": 553396102,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-07-30T16:44:33Z",
+            "last_commit": "2026-09-08T09:58:11Z",
             "open_issues": 2,
             "owner": "statikbe",
             "repo": "laravel-filament-chained-translation-manager",
@@ -267,7 +267,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-07-25T03:55:32Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "bezhanSalleh",
             "repo": "filament-shield",
             "stars": 2827,
@@ -305,7 +305,7 @@
             "open_issues": 0,
             "owner": "shuvroroy",
             "repo": "filament-spatie-laravel-backup",
-            "stars": 276,
+            "stars": 277,
             "topics": [
               "filament",
               "laravel",
@@ -516,7 +516,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-07-30T17:22:48Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "saade",
             "repo": "filament-fullcalendar",
             "stars": 417,
@@ -945,7 +945,7 @@
             "id": 566411734,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-01T10:02:40Z",
+            "last_commit": "2026-09-08T08:14:55Z",
             "open_issues": 1,
             "owner": "creagia",
             "repo": "filament-code-field",
@@ -1317,7 +1317,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T21:41:07.878Z",
+    "last_updated": "2026-09-08T21:18:24.104Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
