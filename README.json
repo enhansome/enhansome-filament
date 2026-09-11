@@ -305,7 +305,7 @@
             "open_issues": 0,
             "owner": "shuvroroy",
             "repo": "filament-spatie-laravel-backup",
-            "stars": 277,
+            "stars": 278,
             "topics": [
               "filament",
               "laravel",
@@ -348,8 +348,8 @@
             "id": 455479561,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-03-07T22:20:59Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-11T08:07:36Z",
+            "open_issues": 3,
             "owner": "ralphjsmit",
             "repo": "laravel-filament-seo",
             "stars": 153,
@@ -663,7 +663,7 @@
             "open_issues": 0,
             "owner": "pxlrbt",
             "repo": "filament-environment-indicator",
-            "stars": 151,
+            "stars": 152,
             "topics": [
               "environment",
               "filamentadmin",
@@ -1303,7 +1303,7 @@
             "id": 557733053,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-10T11:10:39Z",
+            "last_commit": "2026-09-11T07:58:51Z",
             "open_issues": 0,
             "owner": "packstub",
             "repo": "filament-account-switcher",
@@ -1317,7 +1317,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T21:02:59.046Z",
+    "last_updated": "2026-09-11T21:07:42.637Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
