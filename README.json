@@ -663,7 +663,7 @@
             "open_issues": 0,
             "owner": "pxlrbt",
             "repo": "filament-environment-indicator",
-            "stars": 152,
+            "stars": 153,
             "topics": [
               "environment",
               "filamentadmin",
@@ -1317,7 +1317,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T21:07:42.637Z",
+    "last_updated": "2026-09-12T20:46:13.281Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
@@ -1326,7 +1326,7 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-09-01T10:26:56Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "spekulatius",
       "repo": "awesome-filament",
       "stars": 203,
