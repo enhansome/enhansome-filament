@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 32,042 | 🐛 20 | 🌐 PHP | 📅 2026-09-12 stuff.
+A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 32,048 | 🐛 20 | 🌐 PHP | 📅 2026-09-13 stuff.
 
 <!-- image -->
 
@@ -43,7 +43,7 @@ A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 32,
 
 Complete sections to cover functionality such as a CMS, blog, etc.
 
-* [Z3d0X/filament-fabricator](https://github.com/Z3d0X/filament-fabricator) ⭐ 386 | 🐛 2 | 🌐 PHP | 📅 2026-06-30 - Block-Based Page Builder Skeleton for your Filament Apps.
+* [Z3d0X/filament-fabricator](https://github.com/Z3d0X/filament-fabricator) ⭐ 387 | 🐛 2 | 🌐 PHP | 📅 2026-06-30 - Block-Based Page Builder Skeleton for your Filament Apps.
 * [andrewdwallo/filament-companies](https://github.com/andrewdwallo/filament-companies) ⭐ 353 | 🐛 5 | 🌐 PHP | 📅 2026-03-05 - A complete authentication system kit based on companies built for Filament with Fortify, Socialite and more.
 * [stephenjude/filament-blog](https://github.com/stephenjude/filament-blog) ⭐ 209 | 🐛 3 | 🌐 PHP | 📅 2026-06-20 - A faceless blog content manager with configurable richtext and markdown support for filament admin panel.
 * [awcodes/overlook](https://github.com/awcodes/overlook) ⭐ 193 | 🐛 0 | 🌐 PHP | 📅 2026-09-09 - Adds an app overview widget to your admin panel.
@@ -59,7 +59,7 @@ Complete sections to cover functionality such as a CMS, blog, etc.
 Integrations with popular Laravel packages or core features:
 
 * [bezhanSalleh/filament-shield](https://github.com/bezhanSalleh/filament-shield) ⭐ 2,827 | 🐛 5 | 🌐 PHP | 📅 2026-07-25 - The easiest and most intuitive way to add access management to your Filament Admin Resources, Pages & Widgets through `spatie/laravel-permission`.
-* [shuvroroy/filament-spatie-laravel-backup](https://github.com/shuvroroy/filament-spatie-laravel-backup) ⭐ 278 | 🐛 0 | 🌐 PHP | 📅 2026-09-06 - Integrate with [`spatie/laravel-backup`](https://github.com/spatie/laravel-backup) ⭐ 6,023 | 🐛 1 | 🌐 PHP | 📅 2026-08-20.
+* [shuvroroy/filament-spatie-laravel-backup](https://github.com/shuvroroy/filament-spatie-laravel-backup) ⭐ 278 | 🐛 1 | 🌐 PHP | 📅 2026-09-13 - Integrate with [`spatie/laravel-backup`](https://github.com/spatie/laravel-backup) ⭐ 6,023 | 🐛 1 | 🌐 PHP | 📅 2026-08-20.
 * [shuvroroy/filament-spatie-laravel-health](https://github.com/shuvroroy/filament-spatie-laravel-health) ⭐ 196 | 🐛 1 | 🌐 PHP | 📅 2026-09-09 - Monitor the health of a Laravel application using [`spatie/laravel-health`](https://github.com/spatie/laravel-health) ⭐ 886 | 🐛 2 | 🌐 PHP | 📅 2026-08-17.
 * [ralphjsmit/laravel-filament-seo](https://github.com/ralphjsmit/laravel-filament-seo) ⭐ 153 | 🐛 3 | 🌐 PHP | 📅 2026-09-11 - A package to combine the power of Laravel SEO and Filament Admin.
 * [ramnzys/filament-email-log](https://github.com/ramnzys/filament-email-log) ⭐ 52 | 🐛 13 | 🌐 PHP | 📅 2024-03-15 - A Filament resource to view all Laravel sent emails.
@@ -83,7 +83,7 @@ Integrations with popular Laravel packages or core features:
 
 ## UI
 
-* [saade/filament-fullcalendar](https://github.com/saade/filament-fullcalendar) ⭐ 417 | 🐛 12 | 🌐 PHP | 📅 2026-09-10 - A Calendar widget for Filamant.
+* [saade/filament-fullcalendar](https://github.com/saade/filament-fullcalendar) ⭐ 418 | 🐛 12 | 🌐 PHP | 📅 2026-09-10 - A Calendar widget for Filamant.
 * [bezhanSalleh/filament-language-switch](https://github.com/bezhanSalleh/filament-language-switch) ⭐ 361 | 🐛 2 | 🌐 PHP | 📅 2026-06-27 - Zero config Language Switch (Changer/Localizer) plugin for Filamentphp Admin.
 * [cheesegrits/filament-google-maps](https://github.com/cheesegrits/filament-google-maps) ⭐ 327 | 🐛 78 | 🌐 PHP | 📅 2026-04-13 - A collection of Fields and Widgets to work with Google Maps.
 * [pxlrbt/filament-spotlight](https://github.com/pxlrbt/filament-spotlight) ⭐ 278 | 🐛 1 | 🌐 PHP | 📅 2026-08-18 - Quickly navigate your Filament pages.
@@ -143,4 +143,4 @@ Integrations with popular Laravel packages or core features:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
