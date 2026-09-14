@@ -301,8 +301,8 @@
             "id": 443783157,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-13T14:55:09Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-14T17:57:13Z",
+            "open_issues": 0,
             "owner": "shuvroroy",
             "repo": "filament-spatie-laravel-backup",
             "stars": 278,
@@ -327,8 +327,8 @@
             "id": 442865035,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-09T22:54:34Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-14T17:56:46Z",
+            "open_issues": 0,
             "owner": "shuvroroy",
             "repo": "filament-spatie-laravel-health",
             "stars": 196,
@@ -1317,7 +1317,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T21:00:09.261Z",
+    "last_updated": "2026-09-14T21:56:35.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
