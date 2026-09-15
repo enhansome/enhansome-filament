@@ -270,7 +270,7 @@
             "open_issues": 5,
             "owner": "bezhanSalleh",
             "repo": "filament-shield",
-            "stars": 2827,
+            "stars": 2828,
             "topics": [
               "acl",
               "easy-access-management",
@@ -1196,7 +1196,7 @@
             "open_issues": 0,
             "owner": "bezhanSalleh",
             "repo": "filament-google-analytics",
-            "stars": 216,
+            "stars": 217,
             "topics": [
               "analytics",
               "filament-analytics",
@@ -1299,7 +1299,7 @@
           "repo_info": {
             "archived": false,
             "description": "Switch between accounts in Filament: impersonate users, linked sub-accounts, and developer logins.",
-            "homepage": null,
+            "homepage": "https://packstub.dev/plugins/filament-account-switcher",
             "id": 557733053,
             "language": "PHP",
             "license": "MIT",
@@ -1308,7 +1308,18 @@
             "owner": "packstub",
             "repo": "filament-account-switcher",
             "stars": 43,
-            "topics": []
+            "topics": [
+              "developer-login",
+              "filament",
+              "filament-plugin",
+              "filament-v5",
+              "impersonate",
+              "impersonation",
+              "laravel",
+              "linked-accounts",
+              "packstub",
+              "sub-accounts"
+            ]
           },
           "first_seen": "2026-08-29T01:49:31.777Z"
         }
@@ -1317,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T21:56:35.873Z",
+    "last_updated": "2026-09-15T21:36:09.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",

@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 32,055 | 🐛 26 | 🌐 PHP | 📅 2026-09-14 stuff.
+A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 32,068 | 🐛 23 | 🌐 PHP | 📅 2026-09-15 stuff.
 
 <!-- image -->
 
@@ -58,7 +58,7 @@ Complete sections to cover functionality such as a CMS, blog, etc.
 
 Integrations with popular Laravel packages or core features:
 
-* [bezhanSalleh/filament-shield](https://github.com/bezhanSalleh/filament-shield) ⭐ 2,827 | 🐛 5 | 🌐 PHP | 📅 2026-07-25 - The easiest and most intuitive way to add access management to your Filament Admin Resources, Pages & Widgets through `spatie/laravel-permission`.
+* [bezhanSalleh/filament-shield](https://github.com/bezhanSalleh/filament-shield) ⭐ 2,828 | 🐛 5 | 🌐 PHP | 📅 2026-07-25 - The easiest and most intuitive way to add access management to your Filament Admin Resources, Pages & Widgets through `spatie/laravel-permission`.
 * [shuvroroy/filament-spatie-laravel-backup](https://github.com/shuvroroy/filament-spatie-laravel-backup) ⭐ 278 | 🐛 0 | 🌐 PHP | 📅 2026-09-14 - Integrate with [`spatie/laravel-backup`](https://github.com/spatie/laravel-backup) ⭐ 6,024 | 🐛 0 | 🌐 PHP | 📅 2026-09-14.
 * [shuvroroy/filament-spatie-laravel-health](https://github.com/shuvroroy/filament-spatie-laravel-health) ⭐ 196 | 🐛 0 | 🌐 PHP | 📅 2026-09-14 - Monitor the health of a Laravel application using [`spatie/laravel-health`](https://github.com/spatie/laravel-health) ⭐ 886 | 🐛 2 | 🌐 PHP | 📅 2026-08-17.
 * [ralphjsmit/laravel-filament-seo](https://github.com/ralphjsmit/laravel-filament-seo) ⭐ 153 | 🐛 3 | 🌐 PHP | 📅 2026-09-11 - A package to combine the power of Laravel SEO and Filament Admin.
@@ -122,7 +122,7 @@ Integrations with popular Laravel packages or core features:
 
 ## Analytics
 
-* [bezhanSalleh/filament-google-analytics](https://github.com/bezhanSalleh/filament-google-analytics) ⭐ 216 | 🐛 0 | 🌐 PHP | 📅 2026-06-27 - Google Analytics integration with the Filament Admin.
+* [bezhanSalleh/filament-google-analytics](https://github.com/bezhanSalleh/filament-google-analytics) ⭐ 217 | 🐛 0 | 🌐 PHP | 📅 2026-06-27 - Google Analytics integration with the Filament Admin.
 * [danilopolani/filament-plausible-widget](https://github.com/danilopolani/filament-plausible-widget) ⭐ 20 | 🐛 1 | 🌐 PHP | 📅 2025-04-22 - Add a fancy Plausible statistics widget to your Filament admin dashboard.
 
 ## MISC
@@ -143,4 +143,4 @@ Integrations with popular Laravel packages or core features:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
