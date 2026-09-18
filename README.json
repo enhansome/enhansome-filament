@@ -482,7 +482,7 @@
             "id": 471219590,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-21T02:34:12Z",
+            "last_commit": "2026-09-18T02:37:34Z",
             "open_issues": 5,
             "owner": "saade",
             "repo": "filament-laravel-log",
@@ -537,7 +537,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-06-27T23:38:44Z",
-            "open_issues": 2,
+            "open_issues": 4,
             "owner": "bezhanSalleh",
             "repo": "filament-language-switch",
             "stars": 361,
@@ -587,7 +587,7 @@
             "open_issues": 1,
             "owner": "pxlrbt",
             "repo": "filament-spotlight",
-            "stars": 278,
+            "stars": 279,
             "topics": [
               "filament",
               "filamentadmin",
@@ -615,7 +615,7 @@
             "open_issues": 1,
             "owner": "aymanalhattami",
             "repo": "filament-page-with-sidebar",
-            "stars": 272,
+            "stars": 273,
             "topics": [
               "filament",
               "laravel"
@@ -1303,7 +1303,7 @@
             "id": 557733053,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-11T07:58:51Z",
+            "last_commit": "2026-09-18T10:59:51Z",
             "open_issues": 0,
             "owner": "packstub",
             "repo": "filament-account-switcher",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T21:35:25.623Z",
+    "last_updated": "2026-09-18T21:05:45.799Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
