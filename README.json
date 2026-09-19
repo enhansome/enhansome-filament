@@ -270,7 +270,7 @@
             "open_issues": 5,
             "owner": "bezhanSalleh",
             "repo": "filament-shield",
-            "stars": 2829,
+            "stars": 2827,
             "topics": [
               "acl",
               "easy-access-management",
@@ -519,7 +519,7 @@
             "open_issues": 12,
             "owner": "saade",
             "repo": "filament-fullcalendar",
-            "stars": 418,
+            "stars": 419,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:31.777Z"
@@ -810,7 +810,7 @@
             "open_issues": 16,
             "owner": "GuavaCZ",
             "repo": "filament-icon-picker",
-            "stars": 164,
+            "stars": 165,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:31.777Z"
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T21:05:45.799Z",
+    "last_updated": "2026-09-19T20:53:46.931Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
