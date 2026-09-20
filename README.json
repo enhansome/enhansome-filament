@@ -301,7 +301,7 @@
             "id": 443783157,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-14T17:57:13Z",
+            "last_commit": "2026-09-20T14:54:08Z",
             "open_issues": 0,
             "owner": "shuvroroy",
             "repo": "filament-spatie-laravel-backup",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T20:53:46.931Z",
+    "last_updated": "2026-09-20T20:57:50.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
