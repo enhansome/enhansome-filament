@@ -270,7 +270,7 @@
             "open_issues": 5,
             "owner": "bezhanSalleh",
             "repo": "filament-shield",
-            "stars": 2827,
+            "stars": 2828,
             "topics": [
               "acl",
               "easy-access-management",
@@ -540,7 +540,7 @@
             "open_issues": 4,
             "owner": "bezhanSalleh",
             "repo": "filament-language-switch",
-            "stars": 361,
+            "stars": 362,
             "topics": [
               "filament-plugin",
               "filamentadmin",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T22:06:07.081Z",
+    "last_updated": "2026-09-22T21:33:03.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
