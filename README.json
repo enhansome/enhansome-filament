@@ -270,7 +270,7 @@
             "open_issues": 5,
             "owner": "bezhanSalleh",
             "repo": "filament-shield",
-            "stars": 2828,
+            "stars": 2827,
             "topics": [
               "acl",
               "easy-access-management",
@@ -540,7 +540,7 @@
             "open_issues": 4,
             "owner": "bezhanSalleh",
             "repo": "filament-language-switch",
-            "stars": 362,
+            "stars": 361,
             "topics": [
               "filament-plugin",
               "filamentadmin",
@@ -566,7 +566,7 @@
             "open_issues": 78,
             "owner": "cheesegrits",
             "repo": "filament-google-maps",
-            "stars": 327,
+            "stars": 326,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:31.777Z"
@@ -859,7 +859,7 @@
             "open_issues": 14,
             "owner": "savannabits",
             "repo": "filament-signature-pad",
-            "stars": 78,
+            "stars": 77,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:31.777Z"
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T21:33:03.006Z",
+    "last_updated": "2026-09-23T21:38:45.623Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
