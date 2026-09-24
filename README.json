@@ -639,7 +639,7 @@
             "open_issues": 0,
             "owner": "awcodes",
             "repo": "filament-quick-create",
-            "stars": 251,
+            "stars": 252,
             "topics": [
               "filament",
               "filament-plugin"
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T21:38:45.623Z",
+    "last_updated": "2026-09-24T21:39:54.038Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
