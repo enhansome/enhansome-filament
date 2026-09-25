@@ -96,7 +96,7 @@
             "id": 614453671,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-09T17:17:46Z",
+            "last_commit": "2026-09-25T16:20:03Z",
             "open_issues": 0,
             "owner": "awcodes",
             "repo": "overlook",
@@ -331,7 +331,7 @@
             "open_issues": 2,
             "owner": "shuvroroy",
             "repo": "filament-spatie-laravel-health",
-            "stars": 196,
+            "stars": 197,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:31.777Z"
@@ -482,7 +482,7 @@
             "id": 471219590,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-18T02:37:34Z",
+            "last_commit": "2026-09-25T02:34:13Z",
             "open_issues": 5,
             "owner": "saade",
             "repo": "filament-laravel-log",
@@ -635,7 +635,7 @@
             "id": 511175628,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-09T19:41:06Z",
+            "last_commit": "2026-09-25T16:20:08Z",
             "open_issues": 0,
             "owner": "awcodes",
             "repo": "filament-quick-create",
@@ -684,7 +684,7 @@
             "id": 569459985,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-09T17:17:51Z",
+            "last_commit": "2026-09-25T16:19:49Z",
             "open_issues": 0,
             "owner": "awcodes",
             "repo": "filament-badgeable-column",
@@ -729,7 +729,7 @@
             "id": 504232209,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-09T17:18:22Z",
+            "last_commit": "2026-09-25T16:20:15Z",
             "open_issues": 0,
             "owner": "awcodes",
             "repo": "filament-sticky-header",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T21:39:54.038Z",
+    "last_updated": "2026-09-25T21:44:36.757Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
