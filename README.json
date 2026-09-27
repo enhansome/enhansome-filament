@@ -216,7 +216,7 @@
             "open_issues": 1,
             "owner": "MarJose123",
             "repo": "filament-webhook-server",
-            "stars": 52,
+            "stars": 51,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:31.777Z"
@@ -301,7 +301,7 @@
             "id": 443783157,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-20T14:54:08Z",
+            "last_commit": "2026-09-27T14:53:52Z",
             "open_issues": 0,
             "owner": "shuvroroy",
             "repo": "filament-spatie-laravel-backup",
@@ -540,7 +540,7 @@
             "open_issues": 4,
             "owner": "bezhanSalleh",
             "repo": "filament-language-switch",
-            "stars": 361,
+            "stars": 362,
             "topics": [
               "filament-plugin",
               "filamentadmin",
@@ -615,7 +615,7 @@
             "open_issues": 1,
             "owner": "aymanalhattami",
             "repo": "filament-page-with-sidebar",
-            "stars": 273,
+            "stars": 274,
             "topics": [
               "filament",
               "laravel"
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T21:21:54.092Z",
+    "last_updated": "2026-09-27T21:30:14.157Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
