@@ -75,7 +75,7 @@
             "open_issues": 3,
             "owner": "stephenjude",
             "repo": "filament-blog",
-            "stars": 209,
+            "stars": 208,
             "topics": [
               "blogging",
               "laravel",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T22:29:52.935Z",
+    "last_updated": "2026-09-30T22:27:53.290Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
