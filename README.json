@@ -270,7 +270,7 @@
             "open_issues": 5,
             "owner": "bezhanSalleh",
             "repo": "filament-shield",
-            "stars": 2826,
+            "stars": 2827,
             "topics": [
               "acl",
               "easy-access-management",
@@ -327,7 +327,7 @@
             "id": 442865035,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-29T14:23:35Z",
+            "last_commit": "2026-09-30T22:55:24Z",
             "open_issues": 0,
             "owner": "shuvroroy",
             "repo": "filament-spatie-laravel-health",
@@ -1254,7 +1254,7 @@
             "id": 352468212,
             "language": "PHP",
             "license": null,
-            "last_commit": "2026-07-06T12:40:00Z",
+            "last_commit": "2026-10-01T22:47:53Z",
             "open_issues": 0,
             "owner": "stechstudio",
             "repo": "filament-impersonate",
@@ -1307,7 +1307,7 @@
             "open_issues": 0,
             "owner": "packstub",
             "repo": "filament-account-switcher",
-            "stars": 43,
+            "stars": 44,
             "topics": [
               "developer-login",
               "filament",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T22:27:53.290Z",
+    "last_updated": "2026-10-01T22:49:56.561Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
@@ -1340,7 +1340,7 @@
       "open_issues": 5,
       "owner": "spekulatius",
       "repo": "awesome-filament",
-      "stars": 203,
+      "stars": 204,
       "topics": [
         "awesome",
         "awesome-filament",
