@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 32,181 | 🐛 17 | 🌐 PHP | 📅 2026-10-02 stuff.
+A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 32,183 | 🐛 17 | 🌐 PHP | 📅 2026-10-02 stuff.
 
 <!-- image -->
 
@@ -139,8 +139,8 @@ Integrations with popular Laravel packages or core features:
 
 ## Contributors
 
-[Thanks goes to these contributors](https://github.com/spekulatius/awesome-filament/graphs/contributors) ⭐ 204 | 🐛 5 | 📅 2026-09-01!
+[Thanks goes to these contributors](https://github.com/spekulatius/awesome-filament/graphs/contributors)!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
