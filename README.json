@@ -212,8 +212,8 @@
             "id": 589401798,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-06-22T14:32:31Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-03T09:36:47Z",
+            "open_issues": 0,
             "owner": "MarJose123",
             "repo": "filament-webhook-server",
             "stars": 51,
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:45:38.175Z",
+    "last_updated": "2026-10-03T21:37:36.220Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",

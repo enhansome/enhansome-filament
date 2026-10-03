@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 32,183 | 🐛 17 | 🌐 PHP | 📅 2026-10-02 stuff.
+A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 32,189 | 🐛 20 | 🌐 PHP | 📅 2026-10-03 stuff.
 
 <!-- image -->
 
@@ -51,7 +51,7 @@ Complete sections to cover functionality such as a CMS, blog, etc.
 * [stephenjude/filament-debugger](https://github.com/stephenjude/filament-debugger) ⭐ 105 | 🐛 0 | 🌐 PHP | 📅 2026-06-25 - Easily add Laravel Telescope and Horizon to Filament.
 * [statikbe/laravel-filament-chained-translation-manager](https://github.com/statikbe/laravel-filament-chained-translation-manager) ⭐ 95 | 🐛 3 | 🌐 PHP | 📅 2026-09-09 - A translation manager tool using [Laravel Chained Translator](https://github.com/statikbe/laravel-chained-translator) ⭐ 37 | 🐛 0 | 🌐 PHP | 📅 2026-04-26.
 * [invaders-xx/filament-kanban-board](https://github.com/invaders-xx/filament-kanban-board) ⭐ 76 | 🐛 2 | 🌐 PHP | 📅 2024-07-08 - Kanban-Board for Filament.
-* [MarJose123/filament-webhook-server](https://github.com/MarJose123/filament-webhook-server) ⭐ 51 | 🐛 1 | 🌐 PHP | 📅 2026-06-22 - Send webhooks from Filament apps.
+* [MarJose123/filament-webhook-server](https://github.com/MarJose123/filament-webhook-server) ⭐ 51 | 🐛 0 | 🌐 PHP | 📅 2026-10-03 - Send webhooks from Filament apps.
 * [reworck/filament-settings](https://github.com/reworck/filament-settings) ⭐ 43 | 🐛 1 | 🌐 PHP | 📅 2024-04-01 - Easy setting management for filament.
 
 ## Integrations
@@ -59,7 +59,7 @@ Complete sections to cover functionality such as a CMS, blog, etc.
 Integrations with popular Laravel packages or core features:
 
 * [bezhanSalleh/filament-shield](https://github.com/bezhanSalleh/filament-shield) ⭐ 2,827 | 🐛 5 | 🌐 PHP | 📅 2026-07-25 - The easiest and most intuitive way to add access management to your Filament Admin Resources, Pages & Widgets through `spatie/laravel-permission`.
-* [shuvroroy/filament-spatie-laravel-backup](https://github.com/shuvroroy/filament-spatie-laravel-backup) ⭐ 279 | 🐛 0 | 🌐 PHP | 📅 2026-09-29 - Integrate with [`spatie/laravel-backup`](https://github.com/spatie/laravel-backup) ⭐ 6,025 | 🐛 0 | 🌐 PHP | 📅 2026-09-14.
+* [shuvroroy/filament-spatie-laravel-backup](https://github.com/shuvroroy/filament-spatie-laravel-backup) ⭐ 279 | 🐛 0 | 🌐 PHP | 📅 2026-09-29 - Integrate with [`spatie/laravel-backup`](https://github.com/spatie/laravel-backup) ⭐ 6,026 | 🐛 1 | 🌐 PHP | 📅 2026-09-14.
 * [shuvroroy/filament-spatie-laravel-health](https://github.com/shuvroroy/filament-spatie-laravel-health) ⭐ 197 | 🐛 0 | 🌐 PHP | 📅 2026-09-30 - Monitor the health of a Laravel application using [`spatie/laravel-health`](https://github.com/spatie/laravel-health) ⭐ 891 | 🐛 2 | 🌐 PHP | 📅 2026-09-30.
 * [ralphjsmit/laravel-filament-seo](https://github.com/ralphjsmit/laravel-filament-seo) ⭐ 153 | 🐛 3 | 🌐 PHP | 📅 2026-09-11 - A package to combine the power of Laravel SEO and Filament Admin.
 * [ramnzys/filament-email-log](https://github.com/ramnzys/filament-email-log) ⭐ 52 | 🐛 13 | 🌐 PHP | 📅 2024-03-15 - A Filament resource to view all Laravel sent emails.
