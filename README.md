@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 32,189 | 🐛 20 | 🌐 PHP | 📅 2026-10-03 stuff.
+A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 32,194 | 🐛 13 | 🌐 PHP | 📅 2026-10-04 stuff.
 
 <!-- image -->
 
@@ -59,7 +59,7 @@ Complete sections to cover functionality such as a CMS, blog, etc.
 Integrations with popular Laravel packages or core features:
 
 * [bezhanSalleh/filament-shield](https://github.com/bezhanSalleh/filament-shield) ⭐ 2,827 | 🐛 5 | 🌐 PHP | 📅 2026-07-25 - The easiest and most intuitive way to add access management to your Filament Admin Resources, Pages & Widgets through `spatie/laravel-permission`.
-* [shuvroroy/filament-spatie-laravel-backup](https://github.com/shuvroroy/filament-spatie-laravel-backup) ⭐ 279 | 🐛 0 | 🌐 PHP | 📅 2026-09-29 - Integrate with [`spatie/laravel-backup`](https://github.com/spatie/laravel-backup) ⭐ 6,026 | 🐛 1 | 🌐 PHP | 📅 2026-09-14.
+* [shuvroroy/filament-spatie-laravel-backup](https://github.com/shuvroroy/filament-spatie-laravel-backup) ⭐ 279 | 🐛 0 | 🌐 PHP | 📅 2026-10-04 - Integrate with [`spatie/laravel-backup`](https://github.com/spatie/laravel-backup) ⭐ 6,026 | 🐛 1 | 🌐 PHP | 📅 2026-09-14.
 * [shuvroroy/filament-spatie-laravel-health](https://github.com/shuvroroy/filament-spatie-laravel-health) ⭐ 197 | 🐛 0 | 🌐 PHP | 📅 2026-09-30 - Monitor the health of a Laravel application using [`spatie/laravel-health`](https://github.com/spatie/laravel-health) ⭐ 891 | 🐛 2 | 🌐 PHP | 📅 2026-09-30.
 * [ralphjsmit/laravel-filament-seo](https://github.com/ralphjsmit/laravel-filament-seo) ⭐ 153 | 🐛 3 | 🌐 PHP | 📅 2026-09-11 - A package to combine the power of Laravel SEO and Filament Admin.
 * [ramnzys/filament-email-log](https://github.com/ramnzys/filament-email-log) ⭐ 52 | 🐛 13 | 🌐 PHP | 📅 2024-03-15 - A Filament resource to view all Laravel sent emails.
@@ -118,7 +118,7 @@ Integrations with popular Laravel packages or core features:
 
 ## Charts
 
-* [leandrocfe/filament-apex-charts](https://github.com/leandrocfe/filament-apex-charts) ⭐ 501 | 🐛 0 | 🌐 PHP | 📅 2026-09-27 - Apex Charts integration for Filament PHP.
+* [leandrocfe/filament-apex-charts](https://github.com/leandrocfe/filament-apex-charts) ⭐ 501 | 🐛 0 | 🌐 PHP | 📅 2026-10-04 - Apex Charts integration for Filament PHP.
 
 ## Analytics
 
@@ -143,4 +143,4 @@ Integrations with popular Laravel packages or core features:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
