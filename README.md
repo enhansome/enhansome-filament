@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 32,200 | 🐛 20 | 🌐 PHP | 📅 2026-10-05 stuff.
+A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 32,204 | 🐛 21 | 🌐 PHP | 📅 2026-10-06 stuff.
 
 <!-- image -->
 
