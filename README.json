@@ -515,8 +515,8 @@
             "id": 452490181,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-08T17:36:37Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-09T17:30:58Z",
+            "open_issues": 0,
             "owner": "saade",
             "repo": "filament-fullcalendar",
             "stars": 420,
@@ -1258,7 +1258,7 @@
             "open_issues": 0,
             "owner": "stechstudio",
             "repo": "filament-impersonate",
-            "stars": 397,
+            "stars": 398,
             "topics": [
               "filament",
               "filamentphp",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T23:29:31.263Z",
+    "last_updated": "2026-10-09T22:47:33.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
