@@ -301,7 +301,7 @@
             "id": 443783157,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-04T14:54:03Z",
+            "last_commit": "2026-10-11T14:54:28Z",
             "open_issues": 0,
             "owner": "shuvroroy",
             "repo": "filament-spatie-laravel-backup",
@@ -486,7 +486,7 @@
             "open_issues": 0,
             "owner": "saade",
             "repo": "filament-laravel-log",
-            "stars": 120,
+            "stars": 121,
             "topics": [
               "filament",
               "laravel",
@@ -516,7 +516,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-10-09T17:30:58Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "saade",
             "repo": "filament-fullcalendar",
             "stars": 420,
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T21:54:48.984Z",
+    "last_updated": "2026-10-11T22:14:51.693Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
@@ -1337,7 +1337,7 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-09-01T10:26:56Z",
-      "open_issues": 5,
+      "open_issues": 6,
       "owner": "spekulatius",
       "repo": "awesome-filament",
       "stars": 204,
