@@ -349,7 +349,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-09-11T08:07:36Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "ralphjsmit",
             "repo": "laravel-filament-seo",
             "stars": 153,
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T22:59:25.830Z",
+    "last_updated": "2026-10-14T21:51:33.058Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
