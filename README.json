@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "Z3d0X",
             "repo": "filament-fabricator",
-            "stars": 387,
+            "stars": 386,
             "topics": [
               "filamentphp",
               "hacktoberfest",
@@ -327,7 +327,7 @@
             "id": 442865035,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-07T22:58:22Z",
+            "last_commit": "2026-10-14T22:59:18Z",
             "open_issues": 0,
             "owner": "shuvroroy",
             "repo": "filament-spatie-laravel-health",
@@ -459,7 +459,7 @@
             "open_issues": 5,
             "owner": "webbingbrasil",
             "repo": "filament-advancedfilter",
-            "stars": 148,
+            "stars": 147,
             "topics": []
           },
           "first_seen": "2026-08-31T22:57:31.176Z"
@@ -515,7 +515,7 @@
             "id": 452490181,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-13T17:35:17Z",
+            "last_commit": "2026-10-15T17:27:14Z",
             "open_issues": 0,
             "owner": "saade",
             "repo": "filament-fullcalendar",
@@ -729,7 +729,7 @@
             "id": 504232209,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-06T16:52:07Z",
+            "last_commit": "2026-10-14T22:24:10Z",
             "open_issues": 0,
             "owner": "awcodes",
             "repo": "filament-sticky-header",
@@ -1303,7 +1303,7 @@
             "id": 557733053,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-02T14:40:47Z",
+            "last_commit": "2026-10-15T10:18:24Z",
             "open_issues": 0,
             "owner": "packstub",
             "repo": "filament-account-switcher",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T21:51:33.058Z",
+    "last_updated": "2026-10-15T21:35:55.658Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
