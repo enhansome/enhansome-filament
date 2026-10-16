@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 32,270 | 🐛 15 | 🌐 PHP | 📅 2026-10-15 stuff.
+A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 32,279 | 🐛 14 | 🌐 PHP | 📅 2026-10-16 stuff.
 
 <!-- image -->
 
@@ -59,7 +59,7 @@ Complete sections to cover functionality such as a CMS, blog, etc.
 Integrations with popular Laravel packages or core features:
 
 * [bezhanSalleh/filament-shield](https://github.com/bezhanSalleh/filament-shield) ⭐ 2,828 | 🐛 6 | 🌐 PHP | 📅 2026-07-25 - The easiest and most intuitive way to add access management to your Filament Admin Resources, Pages & Widgets through `spatie/laravel-permission`.
-* [shuvroroy/filament-spatie-laravel-backup](https://github.com/shuvroroy/filament-spatie-laravel-backup) ⭐ 279 | 🐛 0 | 🌐 PHP | 📅 2026-10-11 - Integrate with [`spatie/laravel-backup`](https://github.com/spatie/laravel-backup) ⭐ 6,025 | 🐛 1 | 🌐 PHP | 📅 2026-09-14.
+* [shuvroroy/filament-spatie-laravel-backup](https://github.com/shuvroroy/filament-spatie-laravel-backup) ⭐ 279 | 🐛 0 | 🌐 PHP | 📅 2026-10-11 - Integrate with [`spatie/laravel-backup`](https://github.com/spatie/laravel-backup) ⭐ 6,026 | 🐛 1 | 🌐 PHP | 📅 2026-09-14.
 * [shuvroroy/filament-spatie-laravel-health](https://github.com/shuvroroy/filament-spatie-laravel-health) ⭐ 197 | 🐛 0 | 🌐 PHP | 📅 2026-10-14 - Monitor the health of a Laravel application using [`spatie/laravel-health`](https://github.com/spatie/laravel-health) ⭐ 891 | 🐛 2 | 🌐 PHP | 📅 2026-09-30.
 * [ralphjsmit/laravel-filament-seo](https://github.com/ralphjsmit/laravel-filament-seo) ⭐ 153 | 🐛 4 | 🌐 PHP | 📅 2026-09-11 - A package to combine the power of Laravel SEO and Filament Admin.
 * [ramnzys/filament-email-log](https://github.com/ramnzys/filament-email-log) ⭐ 52 | 🐛 13 | 🌐 PHP | 📅 2024-03-15 - A Filament resource to view all Laravel sent emails.
@@ -71,7 +71,7 @@ Integrations with popular Laravel packages or core features:
 ## Data Exports
 
 * [pxlrbt/filament-excel](https://github.com/pxlrbt/filament-excel) ⭐ 460 | 🐛 3 | 🌐 PHP | 📅 2026-10-07 - Excel Export for Filament Admin Resources.
-* [alperenersoy/filament-export](https://github.com/alperenersoy/filament-export) ⭐ 274 | 🐛 18 | 🌐 PHP | 📅 2026-10-13 - Customizable export and print functionality.
+* [alperenersoy/filament-export](https://github.com/alperenersoy/filament-export) ⭐ 275 | 🐛 18 | 🌐 PHP | 📅 2026-10-13 - Customizable export and print functionality.
 
 ## Filtering
 
@@ -79,11 +79,11 @@ Integrations with popular Laravel packages or core features:
 
 ## Logging
 
-* [saade/filament-laravel-log](https://github.com/saade/filament-laravel-log) ⭐ 121 | 🐛 0 | 🌐 PHP | 📅 2026-10-13 - Access laravel.log file through Filament admin panel.
+* [saade/filament-laravel-log](https://github.com/saade/filament-laravel-log) ⭐ 121 | 🐛 1 | 🌐 PHP | 📅 2026-10-16 - Access laravel.log file through Filament admin panel.
 
 ## UI
 
-* [saade/filament-fullcalendar](https://github.com/saade/filament-fullcalendar) ⭐ 420 | 🐛 0 | 🌐 PHP | 📅 2026-10-15 - A Calendar widget for Filamant.
+* [saade/filament-fullcalendar](https://github.com/saade/filament-fullcalendar) ⭐ 420 | 🐛 0 | 🌐 PHP | 📅 2026-10-16 - A Calendar widget for Filamant.
 * [bezhanSalleh/filament-language-switch](https://github.com/bezhanSalleh/filament-language-switch) ⭐ 363 | 🐛 4 | 🌐 PHP | 📅 2026-06-27 - Zero config Language Switch (Changer/Localizer) plugin for Filamentphp Admin.
 * [cheesegrits/filament-google-maps](https://github.com/cheesegrits/filament-google-maps) ⭐ 325 | 🐛 78 | 🌐 PHP | 📅 2026-04-13 - A collection of Fields and Widgets to work with Google Maps.
 * [pxlrbt/filament-spotlight](https://github.com/pxlrbt/filament-spotlight) ⭐ 279 | 🐛 1 | 🌐 PHP | 📅 2026-10-07 - Quickly navigate your Filament pages.
@@ -143,4 +143,4 @@ Integrations with popular Laravel packages or core features:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
