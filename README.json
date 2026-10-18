@@ -266,11 +266,11 @@
             "id": 443775406,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-07-25T03:55:32Z",
+            "last_commit": "2026-10-18T00:52:37Z",
             "open_issues": 6,
             "owner": "bezhanSalleh",
             "repo": "filament-shield",
-            "stars": 2828,
+            "stars": 2829,
             "topics": [
               "acl",
               "easy-access-management",
@@ -301,7 +301,7 @@
             "id": 443783157,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-11T14:54:28Z",
+            "last_commit": "2026-10-18T14:56:34Z",
             "open_issues": 0,
             "owner": "shuvroroy",
             "repo": "filament-spatie-laravel-backup",
@@ -1307,7 +1307,7 @@
             "open_issues": 0,
             "owner": "packstub",
             "repo": "filament-account-switcher",
-            "stars": 45,
+            "stars": 46,
             "topics": [
               "developer-login",
               "filament",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T20:47:51.602Z",
+    "last_updated": "2026-10-18T20:56:59.026Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
