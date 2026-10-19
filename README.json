@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "Z3d0X",
             "repo": "filament-fabricator",
-            "stars": 386,
+            "stars": 387,
             "topics": [
               "filamentphp",
               "hacktoberfest",
@@ -432,7 +432,7 @@
             "open_issues": 18,
             "owner": "alperenersoy",
             "repo": "filament-export",
-            "stars": 275,
+            "stars": 276,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:31.777Z"
@@ -540,7 +540,7 @@
             "open_issues": 4,
             "owner": "bezhanSalleh",
             "repo": "filament-language-switch",
-            "stars": 363,
+            "stars": 364,
             "topics": [
               "filament-plugin",
               "filamentadmin",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T20:56:59.026Z",
+    "last_updated": "2026-10-19T22:32:47.250Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
@@ -1340,7 +1340,7 @@
       "open_issues": 7,
       "owner": "spekulatius",
       "repo": "awesome-filament",
-      "stars": 204,
+      "stars": 205,
       "topics": [
         "awesome",
         "awesome-filament",
