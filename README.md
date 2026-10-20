@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 32,300 | 🐛 14 | 🌐 PHP | 📅 2026-10-19 stuff.
+A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 32,303 | 🐛 13 | 🌐 PHP | 📅 2026-10-20 stuff.
 
 <!-- image -->
 
@@ -89,7 +89,7 @@ Integrations with popular Laravel packages or core features:
 * [pxlrbt/filament-spotlight](https://github.com/pxlrbt/filament-spotlight) ⭐ 279 | 🐛 1 | 🌐 PHP | 📅 2026-10-07 - Quickly navigate your Filament pages.
 * [aymanalhattami/filament-page-with-sidebar](https://github.com/aymanalhattami/filament-page-with-sidebar) ⭐ 273 | 🐛 1 | 🌐 PHP | 📅 2026-06-22 - A sidebar for Filament Pages supporting RTL and LTR.
 * [awcodes/filament-quick-create](https://github.com/awcodes/filament-quick-create) ⭐ 252 | 🐛 0 | 🌐 PHP | 📅 2026-10-06 - Plugin for Filament Admin that adds a dropdown menu to the header to quickly create new items.
-* [pxlrbt/filament-environment-indicator](https://github.com/pxlrbt/filament-environment-indicator) ⭐ 153 | 🐛 0 | 🌐 PHP | 📅 2026-10-07 - Never confuse your tabs with different Filament environments again.
+* [pxlrbt/filament-environment-indicator](https://github.com/pxlrbt/filament-environment-indicator) ⭐ 154 | 🐛 0 | 🌐 PHP | 📅 2026-10-07 - Never confuse your tabs with different Filament environments again.
 * [awcodes/filament-badgeable-column](https://github.com/awcodes/filament-badgeable-column) ⭐ 148 | 🐛 0 | 🌐 PHP | 📅 2026-10-08 - Allows to append badges to Filament columns.
 * [webbingbrasil/filament-copyactions](https://github.com/webbingbrasil/filament-copyactions) ⭐ 93 | 🐛 2 | 🌐 PHP | 📅 2026-03-31 - A easy-to-use copy actions for Admin Pages, Tables and Form Fields.
 * [awcodes/filament-sticky-header](https://github.com/awcodes/filament-sticky-header) ⭐ 83 | 🐛 0 | 🌐 PHP | 📅 2026-10-14 - A plugin to make headers sticky when scrolling.
@@ -143,4 +143,4 @@ Integrations with popular Laravel packages or core features:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
