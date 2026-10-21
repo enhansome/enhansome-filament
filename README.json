@@ -806,8 +806,8 @@
             "id": 547262758,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-19T13:06:13Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-21T13:03:56Z",
+            "open_issues": 17,
             "owner": "GuavaCZ",
             "repo": "filament-icon-picker",
             "stars": 165,
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T21:46:51.544Z",
+    "last_updated": "2026-10-21T21:52:34.170Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",

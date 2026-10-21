@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 32,303 | 🐛 13 | 🌐 PHP | 📅 2026-10-20 stuff.
+A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 32,309 | 🐛 14 | 🌐 PHP | 📅 2026-10-21 stuff.
 
 <!-- image -->
 
@@ -98,7 +98,7 @@ Integrations with popular Laravel packages or core features:
 
 ## Fields
 
-* [LukasFreyCZ/filament-icon-picker](https://github.com/LukasFreyCZ/filament-icon-picker) ⭐ 165 | 🐛 16 | 🌐 PHP | 📅 2026-08-19 - An icon picker field for Filament.
+* [LukasFreyCZ/filament-icon-picker](https://github.com/LukasFreyCZ/filament-icon-picker) ⭐ 165 | 🐛 17 | 🌐 PHP | 📅 2026-10-21 - An icon picker field for Filament.
 * [camya/filament-title-with-slug](https://github.com/camya/filament-title-with-slug) ⭐ 134 | 🐛 11 | 🌐 PHP | 📅 2024-04-01 - An advanced "Title With Slug"-input field.
 * [savannabits/filament-signature-pad](https://github.com/savannabits/filament-signature-pad) ⭐ 77 | 🐛 14 | 🌐 PHP | 📅 2026-01-12 - A signature pad field.
 * [lucasgiovanny/filament-multiselect-two-sides](https://github.com/lucasgiovanny/filament-multiselect-two-sides) ⭐ 68 | 🐛 4 | 🌐 PHP | 📅 2024-08-21 - A multiselect field with two sides.
@@ -143,4 +143,4 @@ Integrations with popular Laravel packages or core features:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
