@@ -563,7 +563,7 @@
             "language": "PHP",
             "license": null,
             "last_commit": "2026-04-13T22:13:22Z",
-            "open_issues": 78,
+            "open_issues": 79,
             "owner": "cheesegrits",
             "repo": "filament-google-maps",
             "stars": 325,
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T21:33:40.551Z",
+    "last_updated": "2026-10-24T21:02:56.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
