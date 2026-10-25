@@ -267,7 +267,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-10-18T00:52:37Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "bezhanSalleh",
             "repo": "filament-shield",
             "stars": 2828,
@@ -301,7 +301,7 @@
             "id": 443783157,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-18T14:56:34Z",
+            "last_commit": "2026-10-25T14:55:43Z",
             "open_issues": 0,
             "owner": "shuvroroy",
             "repo": "filament-spatie-laravel-backup",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T21:02:56.077Z",
+    "last_updated": "2026-10-25T21:02:47.552Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
