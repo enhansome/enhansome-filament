@@ -270,7 +270,7 @@
             "open_issues": 8,
             "owner": "bezhanSalleh",
             "repo": "filament-shield",
-            "stars": 2828,
+            "stars": 2827,
             "topics": [
               "acl",
               "easy-access-management",
@@ -1303,11 +1303,11 @@
             "id": 557733053,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-27T13:33:28Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-28T09:58:18Z",
+            "open_issues": 0,
             "owner": "packstub",
             "repo": "filament-account-switcher",
-            "stars": 46,
+            "stars": 47,
             "topics": [
               "developer-login",
               "filament",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T22:27:56.946Z",
+    "last_updated": "2026-10-28T22:44:26.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
