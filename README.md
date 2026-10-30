@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 32,371 | 🐛 7 | 🌐 PHP | 📅 2026-10-29 stuff.
+A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 32,386 | 🐛 7 | 🌐 PHP | 📅 2026-10-30 stuff.
 
 <!-- image -->
 
@@ -71,7 +71,7 @@ Integrations with popular Laravel packages or core features:
 ## Data Exports
 
 * [pxlrbt/filament-excel](https://github.com/pxlrbt/filament-excel) ⭐ 459 | 🐛 3 | 🌐 PHP | 📅 2026-10-07 - Excel Export for Filament Admin Resources.
-* [alperenersoy/filament-export](https://github.com/alperenersoy/filament-export) ⭐ 275 | 🐛 18 | 🌐 PHP | 📅 2026-10-13 - Customizable export and print functionality.
+* [alperenersoy/filament-export](https://github.com/alperenersoy/filament-export) ⭐ 276 | 🐛 18 | 🌐 PHP | 📅 2026-10-13 - Customizable export and print functionality.
 
 ## Filtering
 
@@ -79,7 +79,7 @@ Integrations with popular Laravel packages or core features:
 
 ## Logging
 
-* [saade/filament-laravel-log](https://github.com/saade/filament-laravel-log) ⭐ 121 | 🐛 3 | 🌐 PHP | 📅 2026-10-23 - Access laravel.log file through Filament admin panel.
+* [saade/filament-laravel-log](https://github.com/saade/filament-laravel-log) ⭐ 121 | 🐛 6 | 🌐 PHP | 📅 2026-10-30 - Access laravel.log file through Filament admin panel.
 
 ## UI
 
@@ -143,4 +143,4 @@ Integrations with popular Laravel packages or core features:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._

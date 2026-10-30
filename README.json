@@ -432,7 +432,7 @@
             "open_issues": 18,
             "owner": "alperenersoy",
             "repo": "filament-export",
-            "stars": 275,
+            "stars": 276,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:31.777Z"
@@ -482,8 +482,8 @@
             "id": 471219590,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-23T02:33:49Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-30T02:34:32Z",
+            "open_issues": 6,
             "owner": "saade",
             "repo": "filament-laravel-log",
             "stars": 121,
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T22:54:11.037Z",
+    "last_updated": "2026-10-30T22:33:22.226Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
