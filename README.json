@@ -75,7 +75,7 @@
             "open_issues": 3,
             "owner": "stephenjude",
             "repo": "filament-blog",
-            "stars": 208,
+            "stars": 207,
             "topics": [
               "blogging",
               "laravel",
@@ -96,7 +96,7 @@
             "id": 614453671,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-05T19:55:10Z",
+            "last_commit": "2026-10-31T18:02:29Z",
             "open_issues": 0,
             "owner": "awcodes",
             "repo": "overlook",
@@ -348,8 +348,8 @@
             "id": 455479561,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-11T08:07:36Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-31T13:45:06Z",
+            "open_issues": 5,
             "owner": "ralphjsmit",
             "repo": "laravel-filament-seo",
             "stars": 153,
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T22:33:22.226Z",
+    "last_updated": "2026-10-31T21:46:41.851Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
@@ -1337,7 +1337,7 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-09-01T10:26:56Z",
-      "open_issues": 7,
+      "open_issues": 8,
       "owner": "spekulatius",
       "repo": "awesome-filament",
       "stars": 205,
