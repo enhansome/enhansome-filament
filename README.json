@@ -1303,7 +1303,7 @@
             "id": 557733053,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-28T09:58:18Z",
+            "last_commit": "2026-11-02T12:52:15Z",
             "open_issues": 0,
             "owner": "packstub",
             "repo": "filament-account-switcher",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T22:14:37.864Z",
+    "last_updated": "2026-11-03T01:08:43.805Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
