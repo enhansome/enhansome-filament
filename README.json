@@ -348,8 +348,8 @@
             "id": 455479561,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-31T13:45:06Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-03T08:39:27Z",
+            "open_issues": 4,
             "owner": "ralphjsmit",
             "repo": "laravel-filament-seo",
             "stars": 153,
@@ -432,7 +432,7 @@
             "open_issues": 18,
             "owner": "alperenersoy",
             "repo": "filament-export",
-            "stars": 276,
+            "stars": 277,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:31.777Z"
@@ -1258,7 +1258,7 @@
             "open_issues": 0,
             "owner": "stechstudio",
             "repo": "filament-impersonate",
-            "stars": 398,
+            "stars": 399,
             "topics": [
               "filament",
               "filamentphp",
@@ -1303,7 +1303,7 @@
             "id": 557733053,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-02T12:52:15Z",
+            "last_commit": "2026-11-03T12:04:25Z",
             "open_issues": 0,
             "owner": "packstub",
             "repo": "filament-account-switcher",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T01:08:43.805Z",
+    "last_updated": "2026-11-03T23:33:23.509Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
