@@ -270,7 +270,7 @@
             "open_issues": 8,
             "owner": "bezhanSalleh",
             "repo": "filament-shield",
-            "stars": 2829,
+            "stars": 2830,
             "topics": [
               "acl",
               "easy-access-management",
@@ -515,8 +515,8 @@
             "id": 452490181,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-29T17:24:43Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-05T17:22:25Z",
+            "open_issues": 4,
             "owner": "saade",
             "repo": "filament-fullcalendar",
             "stars": 423,
@@ -536,8 +536,8 @@
             "id": 506847060,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-06-27T23:38:44Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-05T09:30:49Z",
+            "open_issues": 1,
             "owner": "bezhanSalleh",
             "repo": "filament-language-switch",
             "stars": 365,
@@ -1192,7 +1192,7 @@
             "id": 461983658,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-06-27T23:42:24Z",
+            "last_commit": "2026-11-05T09:28:15Z",
             "open_issues": 0,
             "owner": "bezhanSalleh",
             "repo": "filament-google-analytics",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T23:51:06.508Z",
+    "last_updated": "2026-11-05T23:45:43.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
