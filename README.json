@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "Z3d0X",
             "repo": "filament-fabricator",
-            "stars": 387,
+            "stars": 388,
             "topics": [
               "filamentphp",
               "hacktoberfest",
@@ -270,7 +270,7 @@
             "open_issues": 8,
             "owner": "bezhanSalleh",
             "repo": "filament-shield",
-            "stars": 2830,
+            "stars": 2831,
             "topics": [
               "acl",
               "easy-access-management",
@@ -519,7 +519,7 @@
             "open_issues": 4,
             "owner": "saade",
             "repo": "filament-fullcalendar",
-            "stars": 423,
+            "stars": 424,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:31.777Z"
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T23:45:43.313Z",
+    "last_updated": "2026-11-06T23:22:28.464Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
