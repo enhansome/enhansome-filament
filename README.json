@@ -100,7 +100,7 @@
             "open_issues": 0,
             "owner": "awcodes",
             "repo": "overlook",
-            "stars": 193,
+            "stars": 192,
             "topics": [
               "filament",
               "filament-plugin"
@@ -195,7 +195,7 @@
             "open_issues": 2,
             "owner": "invaders-xx",
             "repo": "filament-kanban-board",
-            "stars": 76,
+            "stars": 75,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:31.777Z"
@@ -270,7 +270,7 @@
             "open_issues": 8,
             "owner": "bezhanSalleh",
             "repo": "filament-shield",
-            "stars": 2832,
+            "stars": 2833,
             "topics": [
               "acl",
               "easy-access-management",
@@ -352,7 +352,7 @@
             "open_issues": 4,
             "owner": "ralphjsmit",
             "repo": "laravel-filament-seo",
-            "stars": 153,
+            "stars": 152,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:31.777Z"
@@ -404,7 +404,7 @@
             "open_issues": 3,
             "owner": "pxlrbt",
             "repo": "filament-excel",
-            "stars": 459,
+            "stars": 460,
             "topics": [
               "excel",
               "export",
@@ -459,7 +459,7 @@
             "open_issues": 5,
             "owner": "webbingbrasil",
             "repo": "filament-advancedfilter",
-            "stars": 146,
+            "stars": 145,
             "topics": []
           },
           "first_seen": "2026-08-31T22:57:31.176Z"
@@ -486,7 +486,7 @@
             "open_issues": 6,
             "owner": "saade",
             "repo": "filament-laravel-log",
-            "stars": 121,
+            "stars": 120,
             "topics": [
               "filament",
               "laravel",
@@ -566,7 +566,7 @@
             "open_issues": 79,
             "owner": "cheesegrits",
             "repo": "filament-google-maps",
-            "stars": 325,
+            "stars": 326,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:31.777Z"
@@ -587,7 +587,7 @@
             "open_issues": 1,
             "owner": "pxlrbt",
             "repo": "filament-spotlight",
-            "stars": 279,
+            "stars": 278,
             "topics": [
               "filament",
               "filamentadmin",
@@ -639,7 +639,7 @@
             "open_issues": 0,
             "owner": "awcodes",
             "repo": "filament-quick-create",
-            "stars": 251,
+            "stars": 250,
             "topics": [
               "filament",
               "filament-plugin"
@@ -663,7 +663,7 @@
             "open_issues": 0,
             "owner": "pxlrbt",
             "repo": "filament-environment-indicator",
-            "stars": 154,
+            "stars": 153,
             "topics": [
               "environment",
               "filamentadmin",
@@ -688,7 +688,7 @@
             "open_issues": 0,
             "owner": "awcodes",
             "repo": "filament-badgeable-column",
-            "stars": 148,
+            "stars": 147,
             "topics": [
               "filament",
               "filament-plugin"
@@ -733,7 +733,7 @@
             "open_issues": 0,
             "owner": "awcodes",
             "repo": "filament-sticky-header",
-            "stars": 83,
+            "stars": 82,
             "topics": [
               "filament",
               "filament-plugin"
@@ -810,7 +810,7 @@
             "open_issues": 18,
             "owner": "GuavaCZ",
             "repo": "filament-icon-picker",
-            "stars": 165,
+            "stars": 164,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:31.777Z"
@@ -859,7 +859,7 @@
             "open_issues": 14,
             "owner": "savannabits",
             "repo": "filament-signature-pad",
-            "stars": 78,
+            "stars": 77,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:31.777Z"
@@ -1258,7 +1258,7 @@
             "open_issues": 0,
             "owner": "stechstudio",
             "repo": "filament-impersonate",
-            "stars": 402,
+            "stars": 404,
             "topics": [
               "filament",
               "filamentphp",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T01:41:51.543Z",
+    "last_updated": "2026-11-10T23:37:42.182Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",

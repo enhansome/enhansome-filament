@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 32,463 | 🐛 18 | 🌐 PHP | 📅 2026-11-09 stuff.
+A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 32,472 | 🐛 18 | 🌐 PHP | 📅 2026-11-10 stuff.
 
 <!-- image -->
 
@@ -46,11 +46,11 @@ Complete sections to cover functionality such as a CMS, blog, etc.
 * [Z3d0X/filament-fabricator](https://github.com/Z3d0X/filament-fabricator) ⭐ 388 | 🐛 2 | 🌐 PHP | 📅 2026-06-30 - Block-Based Page Builder Skeleton for your Filament Apps.
 * [andrewdwallo/filament-companies](https://github.com/andrewdwallo/filament-companies) ⭐ 353 | 🐛 5 | 🌐 PHP | 📅 2026-03-05 - A complete authentication system kit based on companies built for Filament with Fortify, Socialite and more.
 * [stephenjude/filament-blog](https://github.com/stephenjude/filament-blog) ⭐ 206 | 🐛 3 | 🌐 PHP | 📅 2026-06-20 - A faceless blog content manager with configurable richtext and markdown support for filament admin panel.
-* [awcodes/overlook](https://github.com/awcodes/overlook) ⭐ 193 | 🐛 0 | 🌐 PHP | 📅 2026-10-31 - Adds an app overview widget to your admin panel.
+* [awcodes/overlook](https://github.com/awcodes/overlook) ⭐ 192 | 🐛 0 | 🌐 PHP | 📅 2026-10-31 - Adds an app overview widget to your admin panel.
 * [buildix/timex](https://github.com/buildix/timex) ⭐ 127 | 🐛 11 | 🌐 PHP | 📅 2023-07-02 - Calendar plugin for Filament.
 * [stephenjude/filament-debugger](https://github.com/stephenjude/filament-debugger) ⭐ 105 | 🐛 0 | 🌐 PHP | 📅 2026-06-25 - Easily add Laravel Telescope and Horizon to Filament.
 * [statikbe/laravel-filament-chained-translation-manager](https://github.com/statikbe/laravel-filament-chained-translation-manager) ⭐ 95 | 🐛 3 | 🌐 PHP | 📅 2026-09-09 - A translation manager tool using [Laravel Chained Translator](https://github.com/statikbe/laravel-chained-translator) ⭐ 37 | 🐛 0 | 🌐 PHP | 📅 2026-04-26.
-* [invaders-xx/filament-kanban-board](https://github.com/invaders-xx/filament-kanban-board) ⭐ 76 | 🐛 2 | 🌐 PHP | 📅 2024-07-08 - Kanban-Board for Filament.
+* [invaders-xx/filament-kanban-board](https://github.com/invaders-xx/filament-kanban-board) ⭐ 75 | 🐛 2 | 🌐 PHP | 📅 2024-07-08 - Kanban-Board for Filament.
 * [MarJose123/filament-webhook-server](https://github.com/MarJose123/filament-webhook-server) ⭐ 51 | 🐛 0 | 🌐 PHP | 📅 2026-10-03 - Send webhooks from Filament apps.
 * [reworck/filament-settings](https://github.com/reworck/filament-settings) ⭐ 43 | 🐛 1 | 🌐 PHP | 📅 2024-04-01 - Easy setting management for filament.
 
@@ -58,10 +58,10 @@ Complete sections to cover functionality such as a CMS, blog, etc.
 
 Integrations with popular Laravel packages or core features:
 
-* [bezhanSalleh/filament-shield](https://github.com/bezhanSalleh/filament-shield) ⭐ 2,832 | 🐛 8 | 🌐 PHP | 📅 2026-11-01 - The easiest and most intuitive way to add access management to your Filament Admin Resources, Pages & Widgets through `spatie/laravel-permission`.
-* [shuvroroy/filament-spatie-laravel-backup](https://github.com/shuvroroy/filament-spatie-laravel-backup) ⭐ 278 | 🐛 0 | 🌐 PHP | 📅 2026-11-08 - Integrate with [`spatie/laravel-backup`](https://github.com/spatie/laravel-backup) ⭐ 6,027 | 🐛 0 | 🌐 PHP | 📅 2026-11-06.
+* [bezhanSalleh/filament-shield](https://github.com/bezhanSalleh/filament-shield) ⭐ 2,833 | 🐛 8 | 🌐 PHP | 📅 2026-11-01 - The easiest and most intuitive way to add access management to your Filament Admin Resources, Pages & Widgets through `spatie/laravel-permission`.
+* [shuvroroy/filament-spatie-laravel-backup](https://github.com/shuvroroy/filament-spatie-laravel-backup) ⭐ 278 | 🐛 0 | 🌐 PHP | 📅 2026-11-08 - Integrate with [`spatie/laravel-backup`](https://github.com/spatie/laravel-backup) ⭐ 6,028 | 🐛 0 | 🌐 PHP | 📅 2026-11-06.
 * [shuvroroy/filament-spatie-laravel-health](https://github.com/shuvroroy/filament-spatie-laravel-health) ⭐ 197 | 🐛 0 | 🌐 PHP | 📅 2026-11-04 - Monitor the health of a Laravel application using [`spatie/laravel-health`](https://github.com/spatie/laravel-health) ⭐ 895 | 🐛 0 | 🌐 PHP | 📅 2026-11-06.
-* [ralphjsmit/laravel-filament-seo](https://github.com/ralphjsmit/laravel-filament-seo) ⭐ 153 | 🐛 4 | 🌐 PHP | 📅 2026-11-03 - A package to combine the power of Laravel SEO and Filament Admin.
+* [ralphjsmit/laravel-filament-seo](https://github.com/ralphjsmit/laravel-filament-seo) ⭐ 152 | 🐛 4 | 🌐 PHP | 📅 2026-11-03 - A package to combine the power of Laravel SEO and Filament Admin.
 * [ramnzys/filament-email-log](https://github.com/ramnzys/filament-email-log) ⭐ 52 | 🐛 13 | 🌐 PHP | 📅 2024-03-15 - A Filament resource to view all Laravel sent emails.
 
 ## Data Imports
@@ -70,37 +70,37 @@ Integrations with popular Laravel packages or core features:
 
 ## Data Exports
 
-* [pxlrbt/filament-excel](https://github.com/pxlrbt/filament-excel) ⭐ 459 | 🐛 3 | 🌐 PHP | 📅 2026-11-09 - Excel Export for Filament Admin Resources.
+* [pxlrbt/filament-excel](https://github.com/pxlrbt/filament-excel) ⭐ 460 | 🐛 3 | 🌐 PHP | 📅 2026-11-09 - Excel Export for Filament Admin Resources.
 * [alperenersoy/filament-export](https://github.com/alperenersoy/filament-export) ⭐ 277 | 🐛 18 | 🌐 PHP | 📅 2026-10-13 - Customizable export and print functionality.
 
 ## Filtering
 
-* [webbingbrasil/filament-advancedfilter](https://github.com/webbingbrasil/filament-advancedfilter) ⭐ 146 | 🐛 5 | 🌐 PHP | 📅 2026-03-31 - A collection of easy-to-use filters with clause conditions to Filament.
+* [webbingbrasil/filament-advancedfilter](https://github.com/webbingbrasil/filament-advancedfilter) ⭐ 145 | 🐛 5 | 🌐 PHP | 📅 2026-03-31 - A collection of easy-to-use filters with clause conditions to Filament.
 
 ## Logging
 
-* [saade/filament-laravel-log](https://github.com/saade/filament-laravel-log) ⭐ 121 | 🐛 6 | 🌐 PHP | 📅 2026-10-30 - Access laravel.log file through Filament admin panel.
+* [saade/filament-laravel-log](https://github.com/saade/filament-laravel-log) ⭐ 120 | 🐛 6 | 🌐 PHP | 📅 2026-10-30 - Access laravel.log file through Filament admin panel.
 
 ## UI
 
 * [saade/filament-fullcalendar](https://github.com/saade/filament-fullcalendar) ⭐ 424 | 🐛 4 | 🌐 PHP | 📅 2026-11-05 - A Calendar widget for Filamant.
 * [bezhanSalleh/filament-language-switch](https://github.com/bezhanSalleh/filament-language-switch) ⭐ 365 | 🐛 1 | 🌐 PHP | 📅 2026-11-05 - Zero config Language Switch (Changer/Localizer) plugin for Filamentphp Admin.
-* [cheesegrits/filament-google-maps](https://github.com/cheesegrits/filament-google-maps) ⭐ 325 | 🐛 79 | 🌐 PHP | 📅 2026-04-13 - A collection of Fields and Widgets to work with Google Maps.
-* [pxlrbt/filament-spotlight](https://github.com/pxlrbt/filament-spotlight) ⭐ 279 | 🐛 1 | 🌐 PHP | 📅 2026-10-07 - Quickly navigate your Filament pages.
+* [cheesegrits/filament-google-maps](https://github.com/cheesegrits/filament-google-maps) ⭐ 326 | 🐛 79 | 🌐 PHP | 📅 2026-04-13 - A collection of Fields and Widgets to work with Google Maps.
+* [pxlrbt/filament-spotlight](https://github.com/pxlrbt/filament-spotlight) ⭐ 278 | 🐛 1 | 🌐 PHP | 📅 2026-10-07 - Quickly navigate your Filament pages.
 * [aymanalhattami/filament-page-with-sidebar](https://github.com/aymanalhattami/filament-page-with-sidebar) ⭐ 273 | 🐛 1 | 🌐 PHP | 📅 2026-06-22 - A sidebar for Filament Pages supporting RTL and LTR.
-* [awcodes/filament-quick-create](https://github.com/awcodes/filament-quick-create) ⭐ 251 | 🐛 0 | 🌐 PHP | 📅 2026-10-06 - Plugin for Filament Admin that adds a dropdown menu to the header to quickly create new items.
-* [pxlrbt/filament-environment-indicator](https://github.com/pxlrbt/filament-environment-indicator) ⭐ 154 | 🐛 0 | 🌐 PHP | 📅 2026-10-23 - Never confuse your tabs with different Filament environments again.
-* [awcodes/filament-badgeable-column](https://github.com/awcodes/filament-badgeable-column) ⭐ 148 | 🐛 0 | 🌐 PHP | 📅 2026-10-08 - Allows to append badges to Filament columns.
+* [awcodes/filament-quick-create](https://github.com/awcodes/filament-quick-create) ⭐ 250 | 🐛 0 | 🌐 PHP | 📅 2026-10-06 - Plugin for Filament Admin that adds a dropdown menu to the header to quickly create new items.
+* [pxlrbt/filament-environment-indicator](https://github.com/pxlrbt/filament-environment-indicator) ⭐ 153 | 🐛 0 | 🌐 PHP | 📅 2026-10-23 - Never confuse your tabs with different Filament environments again.
+* [awcodes/filament-badgeable-column](https://github.com/awcodes/filament-badgeable-column) ⭐ 147 | 🐛 0 | 🌐 PHP | 📅 2026-10-08 - Allows to append badges to Filament columns.
 * [webbingbrasil/filament-copyactions](https://github.com/webbingbrasil/filament-copyactions) ⭐ 93 | 🐛 2 | 🌐 PHP | 📅 2026-03-31 - A easy-to-use copy actions for Admin Pages, Tables and Form Fields.
-* [awcodes/filament-sticky-header](https://github.com/awcodes/filament-sticky-header) ⭐ 83 | 🐛 0 | 🌐 PHP | 📅 2026-10-14 - A plugin to make headers sticky when scrolling.
+* [awcodes/filament-sticky-header](https://github.com/awcodes/filament-sticky-header) ⭐ 82 | 🐛 0 | 🌐 PHP | 📅 2026-10-14 - A plugin to make headers sticky when scrolling.
 * [MarJose123/filament-lockscreen](https://github.com/MarJose123/filament-lockscreen) ⭐ 62 | 🐛 0 | 🌐 PHP | 📅 2026-07-11 - A filament plugin that will allow to lock your app screen and be able to continue working after login.
 * [konnco/filament-safely-delete](https://github.com/konnco/filament-safely-delete) ⭐ 34 | 🐛 3 | 🌐 PHP | 📅 2023-10-09 - A delete-safety with name input to confirm.
 
 ## Fields
 
-* [LukasFreyCZ/filament-icon-picker](https://github.com/LukasFreyCZ/filament-icon-picker) ⭐ 165 | 🐛 18 | 🌐 PHP | 📅 2026-11-04 - An icon picker field for Filament.
+* [LukasFreyCZ/filament-icon-picker](https://github.com/LukasFreyCZ/filament-icon-picker) ⭐ 164 | 🐛 18 | 🌐 PHP | 📅 2026-11-04 - An icon picker field for Filament.
 * [camya/filament-title-with-slug](https://github.com/camya/filament-title-with-slug) ⭐ 134 | 🐛 11 | 🌐 PHP | 📅 2024-04-01 - An advanced "Title With Slug"-input field.
-* [savannabits/filament-signature-pad](https://github.com/savannabits/filament-signature-pad) ⭐ 78 | 🐛 14 | 🌐 PHP | 📅 2026-01-12 - A signature pad field.
+* [savannabits/filament-signature-pad](https://github.com/savannabits/filament-signature-pad) ⭐ 77 | 🐛 14 | 🌐 PHP | 📅 2026-01-12 - A signature pad field.
 * [lucasgiovanny/filament-multiselect-two-sides](https://github.com/lucasgiovanny/filament-multiselect-two-sides) ⭐ 67 | 🐛 4 | 🌐 PHP | 📅 2024-08-21 - A multiselect field with two sides.
 * [humaidem/filament-map-picker](https://github.com/humaidem/filament-map-picker) ⭐ 59 | 🐛 5 | 🌐 PHP | 📅 2023-11-20 - Filament Map Field.
 * [TappNetwork/filament-timezone-field](https://github.com/TappNetwork/filament-timezone-field) ⭐ 57 | 🐛 3 | 🌐 PHP | 📅 2026-07-04 - A Timezone field for FilamentPHP.
@@ -127,7 +127,7 @@ Integrations with popular Laravel packages or core features:
 
 ## MISC
 
-* [stechstudio/filament-impersonate](https://github.com/stechstudio/filament-impersonate) ⭐ 402 | 🐛 0 | 🌐 PHP | 📅 2026-11-04 - Impersonate another user out of Filament.
+* [stechstudio/filament-impersonate](https://github.com/stechstudio/filament-impersonate) ⭐ 404 | 🐛 0 | 🌐 PHP | 📅 2026-11-04 - Impersonate another user out of Filament.
 * [DutchCodingCompany/filament-socialite](https://github.com/DutchCodingCompany/filament-socialite) ⭐ 221 | 🐛 4 | 🌐 PHP | 📅 2026-10-13 - Add OAuth login through Laravel Socialite to Filament.
 * [xlite-dev/filament-impersonate](https://github.com/xlite-dev/filament-impersonate) ⭐ 47 | 🐛 0 | 🌐 PHP | 📅 2026-11-09 - Filament Impersonate is a plugin that allows you to authenticate as your users.
 
