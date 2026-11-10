@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 32,454 | 🐛 17 | 🌐 PHP | 📅 2026-11-08 stuff.
+A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 32,463 | 🐛 18 | 🌐 PHP | 📅 2026-11-09 stuff.
 
 <!-- image -->
 
@@ -45,7 +45,7 @@ Complete sections to cover functionality such as a CMS, blog, etc.
 
 * [Z3d0X/filament-fabricator](https://github.com/Z3d0X/filament-fabricator) ⭐ 388 | 🐛 2 | 🌐 PHP | 📅 2026-06-30 - Block-Based Page Builder Skeleton for your Filament Apps.
 * [andrewdwallo/filament-companies](https://github.com/andrewdwallo/filament-companies) ⭐ 353 | 🐛 5 | 🌐 PHP | 📅 2026-03-05 - A complete authentication system kit based on companies built for Filament with Fortify, Socialite and more.
-* [stephenjude/filament-blog](https://github.com/stephenjude/filament-blog) ⭐ 207 | 🐛 3 | 🌐 PHP | 📅 2026-06-20 - A faceless blog content manager with configurable richtext and markdown support for filament admin panel.
+* [stephenjude/filament-blog](https://github.com/stephenjude/filament-blog) ⭐ 206 | 🐛 3 | 🌐 PHP | 📅 2026-06-20 - A faceless blog content manager with configurable richtext and markdown support for filament admin panel.
 * [awcodes/overlook](https://github.com/awcodes/overlook) ⭐ 193 | 🐛 0 | 🌐 PHP | 📅 2026-10-31 - Adds an app overview widget to your admin panel.
 * [buildix/timex](https://github.com/buildix/timex) ⭐ 127 | 🐛 11 | 🌐 PHP | 📅 2023-07-02 - Calendar plugin for Filament.
 * [stephenjude/filament-debugger](https://github.com/stephenjude/filament-debugger) ⭐ 105 | 🐛 0 | 🌐 PHP | 📅 2026-06-25 - Easily add Laravel Telescope and Horizon to Filament.
@@ -70,7 +70,7 @@ Integrations with popular Laravel packages or core features:
 
 ## Data Exports
 
-* [pxlrbt/filament-excel](https://github.com/pxlrbt/filament-excel) ⭐ 459 | 🐛 4 | 🌐 PHP | 📅 2026-10-07 - Excel Export for Filament Admin Resources.
+* [pxlrbt/filament-excel](https://github.com/pxlrbt/filament-excel) ⭐ 459 | 🐛 3 | 🌐 PHP | 📅 2026-11-09 - Excel Export for Filament Admin Resources.
 * [alperenersoy/filament-export](https://github.com/alperenersoy/filament-export) ⭐ 277 | 🐛 18 | 🌐 PHP | 📅 2026-10-13 - Customizable export and print functionality.
 
 ## Filtering
@@ -129,7 +129,7 @@ Integrations with popular Laravel packages or core features:
 
 * [stechstudio/filament-impersonate](https://github.com/stechstudio/filament-impersonate) ⭐ 402 | 🐛 0 | 🌐 PHP | 📅 2026-11-04 - Impersonate another user out of Filament.
 * [DutchCodingCompany/filament-socialite](https://github.com/DutchCodingCompany/filament-socialite) ⭐ 221 | 🐛 4 | 🌐 PHP | 📅 2026-10-13 - Add OAuth login through Laravel Socialite to Filament.
-* [xlite-dev/filament-impersonate](https://github.com/xlite-dev/filament-impersonate) ⭐ 47 | 🐛 0 | 🌐 PHP | 📅 2026-11-03 - Filament Impersonate is a plugin that allows you to authenticate as your users.
+* [xlite-dev/filament-impersonate](https://github.com/xlite-dev/filament-impersonate) ⭐ 47 | 🐛 0 | 🌐 PHP | 📅 2026-11-09 - Filament Impersonate is a plugin that allows you to authenticate as your users.
 
 <!-- END CONTENT -->
 
@@ -143,4 +143,4 @@ Integrations with popular Laravel packages or core features:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._

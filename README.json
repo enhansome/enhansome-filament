@@ -75,7 +75,7 @@
             "open_issues": 3,
             "owner": "stephenjude",
             "repo": "filament-blog",
-            "stars": 207,
+            "stars": 206,
             "topics": [
               "blogging",
               "laravel",
@@ -400,8 +400,8 @@
             "id": 461035717,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-07T17:44:07Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-09T07:28:22Z",
+            "open_issues": 3,
             "owner": "pxlrbt",
             "repo": "filament-excel",
             "stars": 459,
@@ -1303,7 +1303,7 @@
             "id": 557733053,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-03T12:04:25Z",
+            "last_commit": "2026-11-09T16:18:34Z",
             "open_issues": 0,
             "owner": "packstub",
             "repo": "filament-account-switcher",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T22:19:36.245Z",
+    "last_updated": "2026-11-10T01:41:51.543Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
