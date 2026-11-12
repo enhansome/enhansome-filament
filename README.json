@@ -267,7 +267,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-11-01T00:52:43Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "bezhanSalleh",
             "repo": "filament-shield",
             "stars": 2833,
@@ -806,8 +806,8 @@
             "id": 547262758,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-04T13:04:15Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-11T13:05:58Z",
+            "open_issues": 20,
             "owner": "GuavaCZ",
             "repo": "filament-icon-picker",
             "stars": 164,
@@ -1303,7 +1303,7 @@
             "id": 557733053,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-09T16:18:34Z",
+            "last_commit": "2026-11-11T11:41:49Z",
             "open_issues": 0,
             "owner": "packstub",
             "repo": "filament-account-switcher",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T23:37:42.182Z",
+    "last_updated": "2026-11-12T00:55:06.901Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
