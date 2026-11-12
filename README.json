@@ -170,7 +170,7 @@
             "id": 553396102,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-09T12:39:44Z",
+            "last_commit": "2026-11-12T22:36:33Z",
             "open_issues": 3,
             "owner": "statikbe",
             "repo": "laravel-filament-chained-translation-manager",
@@ -515,7 +515,7 @@
             "id": 452490181,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-05T17:22:25Z",
+            "last_commit": "2026-11-12T17:24:39Z",
             "open_issues": 4,
             "owner": "saade",
             "repo": "filament-fullcalendar",
@@ -753,7 +753,7 @@
             "id": 534533062,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-07-11T10:47:40Z",
+            "last_commit": "2026-11-12T08:00:25Z",
             "open_issues": 0,
             "owner": "MarJose123",
             "repo": "filament-lockscreen",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T00:55:06.901Z",
+    "last_updated": "2026-11-12T23:45:09.688Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
