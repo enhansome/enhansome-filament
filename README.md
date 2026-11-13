@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 32,489 | 🐛 19 | 🌐 PHP | 📅 2026-11-12 stuff.
+A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 32,499 | 🐛 20 | 🌐 PHP | 📅 2026-11-13 stuff.
 
 <!-- image -->
 
@@ -49,7 +49,7 @@ Complete sections to cover functionality such as a CMS, blog, etc.
 * [awcodes/overlook](https://github.com/awcodes/overlook) ⭐ 192 | 🐛 0 | 🌐 PHP | 📅 2026-10-31 - Adds an app overview widget to your admin panel.
 * [buildix/timex](https://github.com/buildix/timex) ⭐ 127 | 🐛 11 | 🌐 PHP | 📅 2023-07-02 - Calendar plugin for Filament.
 * [stephenjude/filament-debugger](https://github.com/stephenjude/filament-debugger) ⭐ 105 | 🐛 0 | 🌐 PHP | 📅 2026-06-25 - Easily add Laravel Telescope and Horizon to Filament.
-* [statikbe/laravel-filament-chained-translation-manager](https://github.com/statikbe/laravel-filament-chained-translation-manager) ⭐ 95 | 🐛 3 | 🌐 PHP | 📅 2026-11-12 - A translation manager tool using [Laravel Chained Translator](https://github.com/statikbe/laravel-chained-translator) ⭐ 37 | 🐛 0 | 🌐 PHP | 📅 2026-11-12.
+* [statikbe/laravel-filament-chained-translation-manager](https://github.com/statikbe/laravel-filament-chained-translation-manager) ⭐ 95 | 🐛 3 | 🌐 PHP | 📅 2026-11-13 - A translation manager tool using [Laravel Chained Translator](https://github.com/statikbe/laravel-chained-translator) ⭐ 37 | 🐛 0 | 🌐 PHP | 📅 2026-11-13.
 * [invaders-xx/filament-kanban-board](https://github.com/invaders-xx/filament-kanban-board) ⭐ 75 | 🐛 2 | 🌐 PHP | 📅 2024-07-08 - Kanban-Board for Filament.
 * [MarJose123/filament-webhook-server](https://github.com/MarJose123/filament-webhook-server) ⭐ 51 | 🐛 0 | 🌐 PHP | 📅 2026-10-03 - Send webhooks from Filament apps.
 * [reworck/filament-settings](https://github.com/reworck/filament-settings) ⭐ 43 | 🐛 1 | 🌐 PHP | 📅 2024-04-01 - Easy setting management for filament.
@@ -59,7 +59,7 @@ Complete sections to cover functionality such as a CMS, blog, etc.
 Integrations with popular Laravel packages or core features:
 
 * [bezhanSalleh/filament-shield](https://github.com/bezhanSalleh/filament-shield) ⭐ 2,833 | 🐛 9 | 🌐 PHP | 📅 2026-11-01 - The easiest and most intuitive way to add access management to your Filament Admin Resources, Pages & Widgets through `spatie/laravel-permission`.
-* [shuvroroy/filament-spatie-laravel-backup](https://github.com/shuvroroy/filament-spatie-laravel-backup) ⭐ 278 | 🐛 0 | 🌐 PHP | 📅 2026-11-08 - Integrate with [`spatie/laravel-backup`](https://github.com/spatie/laravel-backup) ⭐ 6,027 | 🐛 0 | 🌐 PHP | 📅 2026-11-06.
+* [shuvroroy/filament-spatie-laravel-backup](https://github.com/shuvroroy/filament-spatie-laravel-backup) ⭐ 278 | 🐛 0 | 🌐 PHP | 📅 2026-11-08 - Integrate with [`spatie/laravel-backup`](https://github.com/spatie/laravel-backup) ⭐ 6,028 | 🐛 0 | 🌐 PHP | 📅 2026-11-06.
 * [shuvroroy/filament-spatie-laravel-health](https://github.com/shuvroroy/filament-spatie-laravel-health) ⭐ 197 | 🐛 0 | 🌐 PHP | 📅 2026-11-04 - Monitor the health of a Laravel application using [`spatie/laravel-health`](https://github.com/spatie/laravel-health) ⭐ 895 | 🐛 0 | 🌐 PHP | 📅 2026-11-06.
 * [ralphjsmit/laravel-filament-seo](https://github.com/ralphjsmit/laravel-filament-seo) ⭐ 152 | 🐛 4 | 🌐 PHP | 📅 2026-11-03 - A package to combine the power of Laravel SEO and Filament Admin.
 * [ramnzys/filament-email-log](https://github.com/ramnzys/filament-email-log) ⭐ 52 | 🐛 13 | 🌐 PHP | 📅 2024-03-15 - A Filament resource to view all Laravel sent emails.
@@ -79,7 +79,7 @@ Integrations with popular Laravel packages or core features:
 
 ## Logging
 
-* [saade/filament-laravel-log](https://github.com/saade/filament-laravel-log) ⭐ 120 | 🐛 6 | 🌐 PHP | 📅 2026-10-30 - Access laravel.log file through Filament admin panel.
+* [saade/filament-laravel-log](https://github.com/saade/filament-laravel-log) ⭐ 120 | 🐛 6 | 🌐 PHP | 📅 2026-11-13 - Access laravel.log file through Filament admin panel.
 
 ## UI
 
@@ -143,4 +143,4 @@ Integrations with popular Laravel packages or core features:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._

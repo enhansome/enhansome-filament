@@ -170,7 +170,7 @@
             "id": 553396102,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-12T22:36:33Z",
+            "last_commit": "2026-11-13T15:20:11Z",
             "open_issues": 3,
             "owner": "statikbe",
             "repo": "laravel-filament-chained-translation-manager",
@@ -482,7 +482,7 @@
             "id": 471219590,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-30T02:34:32Z",
+            "last_commit": "2026-11-13T02:32:42Z",
             "open_issues": 6,
             "owner": "saade",
             "repo": "filament-laravel-log",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T23:45:09.688Z",
+    "last_updated": "2026-11-13T23:45:59.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
