@@ -566,7 +566,7 @@
             "open_issues": 79,
             "owner": "cheesegrits",
             "repo": "filament-google-maps",
-            "stars": 326,
+            "stars": 325,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:31.777Z"
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T22:39:12.738Z",
+    "last_updated": "2026-11-15T23:02:52.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",

@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 32,502 | 🐛 21 | 🌐 PHP | 📅 2026-11-14 stuff.
+A list of awesome [FilamentPHP](https://github.com/filamentphp/filament) ⭐ 32,513 | 🐛 21 | 🌐 PHP | 📅 2026-11-15 stuff.
 
 <!-- image -->
 
@@ -85,7 +85,7 @@ Integrations with popular Laravel packages or core features:
 
 * [saade/filament-fullcalendar](https://github.com/saade/filament-fullcalendar) ⭐ 424 | 🐛 4 | 🌐 PHP | 📅 2026-11-12 - A Calendar widget for Filamant.
 * [bezhanSalleh/filament-language-switch](https://github.com/bezhanSalleh/filament-language-switch) ⭐ 365 | 🐛 1 | 🌐 PHP | 📅 2026-11-05 - Zero config Language Switch (Changer/Localizer) plugin for Filamentphp Admin.
-* [cheesegrits/filament-google-maps](https://github.com/cheesegrits/filament-google-maps) ⭐ 326 | 🐛 79 | 🌐 PHP | 📅 2026-04-13 - A collection of Fields and Widgets to work with Google Maps.
+* [cheesegrits/filament-google-maps](https://github.com/cheesegrits/filament-google-maps) ⭐ 325 | 🐛 79 | 🌐 PHP | 📅 2026-04-13 - A collection of Fields and Widgets to work with Google Maps.
 * [pxlrbt/filament-spotlight](https://github.com/pxlrbt/filament-spotlight) ⭐ 278 | 🐛 1 | 🌐 PHP | 📅 2026-10-07 - Quickly navigate your Filament pages.
 * [aymanalhattami/filament-page-with-sidebar](https://github.com/aymanalhattami/filament-page-with-sidebar) ⭐ 273 | 🐛 1 | 🌐 PHP | 📅 2026-06-22 - A sidebar for Filament Pages supporting RTL and LTR.
 * [awcodes/filament-quick-create](https://github.com/awcodes/filament-quick-create) ⭐ 250 | 🐛 0 | 🌐 PHP | 📅 2026-10-06 - Plugin for Filament Admin that adds a dropdown menu to the header to quickly create new items.
@@ -118,7 +118,7 @@ Integrations with popular Laravel packages or core features:
 
 ## Charts
 
-* [leandrocfe/filament-apex-charts](https://github.com/leandrocfe/filament-apex-charts) ⭐ 501 | 🐛 0 | 🌐 PHP | 📅 2026-11-08 - Apex Charts integration for Filament PHP.
+* [leandrocfe/filament-apex-charts](https://github.com/leandrocfe/filament-apex-charts) ⭐ 502 | 🐛 0 | 🌐 PHP | 📅 2026-11-15 - Apex Charts integration for Filament PHP.
 
 ## Analytics
 
@@ -143,4 +143,4 @@ Integrations with popular Laravel packages or core features:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
