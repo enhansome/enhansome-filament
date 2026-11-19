@@ -270,7 +270,7 @@
             "open_issues": 9,
             "owner": "bezhanSalleh",
             "repo": "filament-shield",
-            "stars": 2834,
+            "stars": 2835,
             "topics": [
               "acl",
               "easy-access-management",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T01:07:42.146Z",
+    "last_updated": "2026-11-19T00:38:37.459Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
