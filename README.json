@@ -195,7 +195,7 @@
             "open_issues": 2,
             "owner": "invaders-xx",
             "repo": "filament-kanban-board",
-            "stars": 75,
+            "stars": 74,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:31.777Z"
@@ -270,7 +270,7 @@
             "open_issues": 9,
             "owner": "bezhanSalleh",
             "repo": "filament-shield",
-            "stars": 2835,
+            "stars": 2834,
             "topics": [
               "acl",
               "easy-access-management",
@@ -401,10 +401,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-11-09T07:28:22Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "pxlrbt",
             "repo": "filament-excel",
-            "stars": 460,
+            "stars": 459,
             "topics": [
               "excel",
               "export",
@@ -515,11 +515,11 @@
             "id": 452490181,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-12T17:24:39Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-19T17:24:43Z",
+            "open_issues": 5,
             "owner": "saade",
             "repo": "filament-fullcalendar",
-            "stars": 425,
+            "stars": 424,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:31.777Z"
@@ -566,7 +566,7 @@
             "open_issues": 79,
             "owner": "cheesegrits",
             "repo": "filament-google-maps",
-            "stars": 325,
+            "stars": 324,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:31.777Z"
@@ -584,10 +584,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-10-07T07:03:31Z",
-            "open_issues": 1,
+            "open_issues": 3,
             "owner": "pxlrbt",
             "repo": "filament-spotlight",
-            "stars": 278,
+            "stars": 277,
             "topics": [
               "filament",
               "filamentadmin",
@@ -1258,7 +1258,7 @@
             "open_issues": 0,
             "owner": "stechstudio",
             "repo": "filament-impersonate",
-            "stars": 405,
+            "stars": 406,
             "topics": [
               "filament",
               "filamentphp",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T00:38:37.459Z",
+    "last_updated": "2026-11-20T00:45:53.193Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
