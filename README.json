@@ -96,7 +96,7 @@
             "id": 614453671,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-16T18:47:03Z",
+            "last_commit": "2026-11-21T21:28:27Z",
             "open_issues": 0,
             "owner": "awcodes",
             "repo": "overlook",
@@ -170,7 +170,7 @@
             "id": 553396102,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-20T23:37:22Z",
+            "last_commit": "2026-11-21T10:26:50Z",
             "open_issues": 3,
             "owner": "statikbe",
             "repo": "laravel-filament-chained-translation-manager",
@@ -216,7 +216,7 @@
             "open_issues": 0,
             "owner": "MarJose123",
             "repo": "filament-webhook-server",
-            "stars": 51,
+            "stars": 52,
             "topics": []
           },
           "first_seen": "2026-08-29T01:49:31.777Z"
@@ -270,7 +270,7 @@
             "open_issues": 9,
             "owner": "bezhanSalleh",
             "repo": "filament-shield",
-            "stars": 2834,
+            "stars": 2833,
             "topics": [
               "acl",
               "easy-access-management",
@@ -635,7 +635,7 @@
             "id": 511175628,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-16T18:47:25Z",
+            "last_commit": "2026-11-21T21:28:30Z",
             "open_issues": 0,
             "owner": "awcodes",
             "repo": "filament-quick-create",
@@ -684,7 +684,7 @@
             "id": 569459985,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-16T18:23:50Z",
+            "last_commit": "2026-11-21T21:17:11Z",
             "open_issues": 0,
             "owner": "awcodes",
             "repo": "filament-badgeable-column",
@@ -729,7 +729,7 @@
             "id": 504232209,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-16T18:51:23Z",
+            "last_commit": "2026-11-21T21:28:33Z",
             "open_issues": 0,
             "owner": "awcodes",
             "repo": "filament-sticky-header",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T00:05:55.591Z",
+    "last_updated": "2026-11-21T23:30:30.849Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
