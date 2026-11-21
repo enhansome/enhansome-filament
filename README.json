@@ -100,7 +100,7 @@
             "open_issues": 0,
             "owner": "awcodes",
             "repo": "overlook",
-            "stars": 192,
+            "stars": 191,
             "topics": [
               "filament",
               "filament-plugin"
@@ -170,7 +170,7 @@
             "id": 553396102,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-16T13:20:27Z",
+            "last_commit": "2026-11-20T23:37:22Z",
             "open_issues": 3,
             "owner": "statikbe",
             "repo": "laravel-filament-chained-translation-manager",
@@ -305,7 +305,7 @@
             "open_issues": 0,
             "owner": "shuvroroy",
             "repo": "filament-spatie-laravel-backup",
-            "stars": 279,
+            "stars": 278,
             "topics": [
               "filament",
               "laravel",
@@ -482,7 +482,7 @@
             "id": 471219590,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-13T02:32:42Z",
+            "last_commit": "2026-11-20T02:34:30Z",
             "open_issues": 6,
             "owner": "saade",
             "repo": "filament-laravel-log",
@@ -587,7 +587,7 @@
             "open_issues": 3,
             "owner": "pxlrbt",
             "repo": "filament-spotlight",
-            "stars": 277,
+            "stars": 276,
             "topics": [
               "filament",
               "filamentadmin",
@@ -663,7 +663,7 @@
             "open_issues": 0,
             "owner": "pxlrbt",
             "repo": "filament-environment-indicator",
-            "stars": 153,
+            "stars": 152,
             "topics": [
               "environment",
               "filamentadmin",
@@ -688,7 +688,7 @@
             "open_issues": 0,
             "owner": "awcodes",
             "repo": "filament-badgeable-column",
-            "stars": 147,
+            "stars": 146,
             "topics": [
               "filament",
               "filament-plugin"
@@ -757,7 +757,7 @@
             "open_issues": 0,
             "owner": "MarJose123",
             "repo": "filament-lockscreen",
-            "stars": 62,
+            "stars": 61,
             "topics": [
               "filament",
               "laravel",
@@ -1303,7 +1303,7 @@
             "id": 557733053,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-17T15:08:29Z",
+            "last_commit": "2026-11-20T13:42:29Z",
             "open_issues": 0,
             "owner": "packstub",
             "repo": "filament-account-switcher",
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T00:45:53.193Z",
+    "last_updated": "2026-11-21T00:05:55.591Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome FilamentPHP stuff",
